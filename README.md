@@ -1,35 +1,71 @@
 # LLM Agentic Legal Information Retrieval
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20beff.svg)](https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval/overview)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+This repository contains the code, notebooks, and sample data for our submission to the **LLM Agentic Legal Information Retrieval** Kaggle competition.
 
-This repository contains the foundational code and baselines for the **[LLM Agentic Legal Information Retrieval](https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval/overview)** Kaggle competition. 
+---
 
-The challenge focuses on building an LLM-powered agentic retrieval pipeline for Swiss law. Given a legal question in English, the system must accurately retrieve the most relevant Swiss legal sources (statutes, decisions, etc., which are mostly cited in German). Submissions are evaluated on a hidden test set using citation-level Macro F1.
+## **Project Overview**
 
-## 🚀 Quick Start
+The goal of this competition is to retrieve **Swiss legal citations** from English legal queries.  
+Our final system combines:
 
-### Download Data
- Get it from Kaggle 
+- BM25 lexical retrieval over a Swiss legal corpus
+- English → German dictionary expansion
+- Qwen 3 0.6B LLM query expansion (for search terms)
+- Direct citation extraction from the query
+- Train-query support (optional, from similar training queries)
+- Citation prior weighting and law-code boosting
+- Noise filtering and final ranking
 
- ### Run Baselines
- One baseline is created (https://github.com/ahmdarwish/LLM-Agentic-Legal-Information-Retrieval/blob/main/code_baseline.ipynb)
+The pipeline returns the **top N citations** per query, formatted for Kaggle submission.
 
- ## Data Format
-The final system must predict a semicolon-separated list of exact citations for each query_id in the test set.
+**Final Results:**
 
-*Training Set: LEXam open-question queries with gold citations.
+- Public Score: **0.03038**
+- Private Score: **0.07587**
 
-*Retrieval Corpus: Swiss federal laws and federal court decision considerations.
+---
 
-*Metric: Submissions are scored using Macro F1, computed per-query between your predicted citations and the gold citation set, and then averaged.
+## **Repository Structure**
+llm-agentic-legal-information-retrieval/
+├─ notebooks/
+│ └─ llmtest3.ipynb # Final notebook
+├─ scripts/ # Optional: reusable functions
+│ ├─ bm25_utils.py # BM25 class and tokenizer
+│ ├─ query_expansion.py # Dictionary and query expansion functions
+│ ├─ scoring.py # Citation parsing and F1 scoring
+│ └─ direct_citation.py # Direct citation extraction functions
+├─ data/ # Small sample datasets for reproducibility
+│ ├─ train_sample.csv
+│ ├─ test_sample.csv
+│ ├─ laws_sample.csv
+│ └─ sample_submission.csv
+├─ submission/
+│ └─ submission.csv # Final Kaggle submission
+├─ requirements.txt # Python dependencies
+└─ README.md
 
-## Requirement
-*Python >= 3.10
-*llama-cpp-python (for local LLM inference)
-*rank-bm25 (for keyword search)
-*pandas, numpy, scikit-learn
 
-## Contact
-For public questions about the competition please open an issue on this repository.
+Notes on Full Dataset
+The full dataset is too large to host on GitHub.
+To run the full pipeline with complete data, download the datasets from the Kaggle competition page:
+
+[LLM Agentic Legal Information Retrieval Data
+](https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval)
+
+Replace the sample CSV files in data/ with the full dataset files, keeping the same filenames if desired.
+
+
+Pipeline Explanation
+1. Direct Citation Extraction: Prioritize citations already mentioned in the query.
+2. Query Expansion: Convert English terms to German legal terms via dictionary and Qwen 3 0.6B LLM.
+3. BM25 Retrieval: Rank candidate legal documents.
+4. Law-code Boosting & Citation Prior: Increase scores of likely law codes and frequent citations.
+5. Noise Filtering: Remove repeated or irrelevant citations.
+6. Final Ranking: Combine all signals to select top N citations per query.
+
+
+Reproducibility
+The notebook is fully runnable using the sample dataset in the data/ folder.
+scripts/ contains all reusable functions.
+submission/submission.csv shows the correct Kaggle format.
