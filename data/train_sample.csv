@@ -1,0 +1,557 @@
+﻿query_id,query,gold_citations
+train_0001,"Die A AG betreibt seit den 1970er-Jahren auf der Parzelle Nr. yyy (Wohn- und Gewerbezone) ein Recyclingunternehmen. Das Unternehmen verarbeitet vorwiegend Metallschrott. Dieser wird im Aussenbereich des BetriebsgelÃ¤ndes zwischengelagert und dort von einem fest instal lierten Metallschredder fÃ¼r die Weiterverarbeitung zerkleinert. Im Jahr 2018 wurde der 1983 bewilligte Metallschredder umfassend modernisiert; nur wenige Teile der GehÃ¤usekonstruktion wurden weiterverwendet. Aufgrund der Modernisierung stieg die jÃ¤hrliche VerarbeitungskapazitÃ¤t von 75'000 auf 84'000 Tonnen, und die durchschnittliche Betriebsleistung pro Tag dehnte sich von zehn auf zwÃ¶lf Stunden aus. Im Herbst 2020 kauft B das Wohnhaus auf der Parzelle Nr. zzz (Wohn- und Gewerbezone), welches an das GrundstÃ¼ck Nr. yyy angrenzt. Nach kurzer Zeit fÃ¼hlt er sich vom LÃ¤rm des Me tallschredders gestÃ¶rt, zumal dieser gelegentlich bis in die spÃ¤ten Abendstunden (23.00 Uhr) in Betrieb ist. Er beschwert sich deshalb bei den zustÃ¤ndigen BehÃ¶rden, welche Ã¼ber die Mo dernisierungsmassnahmen nicht informiert wurden. Aufgrund behÃ¶rdlicher Aufforderung reicht die A AG nachtrÃ¤glich die erforderlichen Bewilli gungsunterlagen ein. Darunter befindet sich ein vorschriftsgemÃ¤ss erstelltes LÃ¤rmgutachten der C AG. Darin wird festgehalten, dass der Metallschredder beim Wohnhaus von B im or dentlichen Betrieb einen maximalen LÃ¤rmpegel von 53 dB(A) erzeugt. 
+Ist die Modernisierung des Metallschredders als UVP-pflichtig zu beurteilen? ",Art. 10a Abs. 1 USG;Art. 2 Abs. 1 UVPV;Art. 10a Abs. 1 UVG
+train_0002,"Die Alpha Consulting AG kann nun ihr GrundstÃ¼ck neu direkt an die soeben erstellte Kana lisationsleitung in der angrenzenden neuen Quartierstrasse anschliessen, so dass sie die von der Grunddienstbarkeit erfasste Abwasserleitung (vgl. Sachverhalt Teil 1) ausser Betrieb nimmt und ihr GrundstÃ¼ck jetzt an die Leitung in der Quartierstrasse anschliesst. Georg (G), der Grundbuchverwalter des Grundbuchkreises, in dem die GrundstÃ¼cke 1 und 2 liegen, wohnt ganz in der NÃ¤he und beobachtet auf seinem tÃ¤glichen Weg zur Arbeit die Installation der neuen Kanalisationsleitung in der Quartierstrasse. Einige Tage spÃ¤ter liest er zudem in der Zeitung, dass sÃ¤mtliche Liegenschaften, die an die Quartierstrasse grenzen, neu an die in der Quartierstrasse befindliche Kanalisationsleitung angeschlossen worden seien. Daher fasst Georg den Entschluss, zur Entlastung des Grundbuchs die bisher eingetra gene Leitungsdienstbarkeit von Amtes wegen zu lÃ¶schen, und setzt sein Vorhaben sofort in die Tat um. 
+Sollte die LÃ¶schung nicht zu Recht erfolgt sein: Welche Rechtsbehelfe stehen der Alpha Consulting AG gegenÃ¼ber wem zur VerfÃ¼gung, um mit allen mÃ¶glichen Mitteln gegen das aus ihrer Sicht vÃ¶llig unzulÃ¤ssige Verhalten von G vorzugehen? PrÃ¼fen Sie jeweils alle Voraussetzungen. Blosse Sanktionen gegen das aus Sicht der Alpha Consulting AG unzulÃ¤ssige Vorgehen von G sind nicht zu prÃ¼fen.",Art. 975 ZGB;Art. 974 Abs. 2 ZGB;Art. 973 ZGB;Art. 661 ZGB;Art. 956a ZGB;Art. 956a Abs. 3 ZGB;Art. 955 Abs. 1 ZGB;Art. 976 ZGB;Art. 976a ZGB;Art. 60 OR;Art. 955 Abs. 2 ZGB
+train_0003,"Das Kompetenzzentrum VÃ¶lkerstrafrecht bei der Bundesanwaltschaft erhÃ¤lt einen Tipp von syrischen FlÃ¼chtlingen. In einer Gemeinschaftsunterkunft wurde Anwar R. entdeckt, der in leitender Funktion in einem GefÃ¤ngnis des syrischen Luftwaffengeheimdienstes in Damaskus zwischen 2011 und 2012 fÃ¼r die brutale Folter von mindestens 4000 Menschen verantwortlich gewesen sein soll. NachprÃ¼fungen ergeben, dass die VorwÃ¼rfe zutreffen kÃ¶nnten. Es finden sich Hinweise auf systematische, brutale, physische und psychische Misshandlungen; u.a. SchlÃ¤ge mit StÃ¶cken, Kabeln und Peitschen sowie Elektroschocks. Der Geheimdienst wollte dadurch Regimegegner einschÃ¼chtern und Informationen erzwingen. Mindestens 58 Gefangene sind vermutlich sogar an den Folgen der Folter gestorben. Anwar R. war fÃ¼r die Organisation der VerhÃ¶re und der Vernehmungsverfahren sowie die Einteilung der Vernehmer verantwortlich. 
+Als zustÃ¤ndige StaatsanwÃ¤ltin sollen Sie prÃ¼fen, ob das Verhalten einen Tatbestand des RÃ¶mer Statuts verletzt. WÃ¤re die Schweiz ggf. auch fÃ¼r die DurchfÃ¼hrung des Verfahrens nach RÃ¶mer Statut zustÃ¤ndig?",Art. 264m StGB
+train_0004,"Die Linzer Stadtbahn AG ('LiSA') ist die private Betreiberin des S-Bahn-Netzes der Ã¶sterreichischen Stadt Linz. LiSA hat mit der deutschen FORSTER Schienenfahrzeuge GmbH ('FORSTER') in Stuttgart einen Liefervertrag Ã¼ber 20 Zugskompositionen fÃ¼r das von ihr im Auftrag der Stadt Linz betriebene Nahverkehrsnetz abgeschlossen. Der Liefervertrag enthÃ¤lt folgende Klausel (aus dem Englischen Ã¼bersetzt): 55. Anwendbares Recht und Streiterledigung 1 Dieser Liefervertrag untersteht dem schweizerischen Recht, unter Ausschluss des Wiener Kaufrechtsabkommens. 2 Im Fall einer Streitigkeit im Zusammenhang mit diesem Liefervertrag und allfÃ¤lligen FolgeauftrÃ¤gen verpflichten sich die Parteien zu einem Mediationsverfahren unter der Leitung eines gemeinsam bestimmten Mediators. 3 Kommt innerhalb von 60 Tagen nach Einleitung des Mediationsverfahrens keine Einigung zustande, so ist jede Partei berechtigt, ein Schiedsverfahren unter Ausschluss der staatlichen Gerichtsbarkeit einzuleiten. Das Schiedsverfahren richtet sich nach der Schiedsordnung der Vereinigung der Schweizer Handelskammern, die im Zeitpunkt der Einleitung des Schiedsverfahrens in Kraft ist. Das Schiedsgericht soll aus drei Mitgliedern bestehen, wobei beide Geschlechter vertreten sein mÃ¼ssen. Schiedsort ist ZÃ¼rich. Die Verfahrenssprache ist Englisch. Nach Abschluss des Liefervertrages, jedoch vor der Auslieferung der ersten Tranche von 10 Zugskompositionen, wird FORSTER von der franzÃ¶sischen Mirabeau Technologies ('Mirabeau') mit Sitz in Lyon Ã¼bernommen. Die Fertigung der ZÃ¼ge erfolgt weiterhin in Deutschland. Die Ãœbernahme von FORSTER durch Mirabeau hat unter anderem zur Folge, dass die ersten 
+Zugskompositionen mit einer VerspÃ¤tung von einem Jahr nach Linz ausgeliefert werden, was 
+wiederum zu einer erheblichen VerzÃ¶gerung bei der Inbetriebnahme durch LiSA fÃ¼hrt. LiSA wird 
+deshalb von der Stadt Linz, in deren Auftrag sie das S-Bahn-Netz betreibt, gemÃ¤ss dem ihr erteilten 
+Leistungsauftrag mit einer Strafzahlung von EUR 1 Mio. belegt. LiSA fordert diesen Betrag von 
+Mirabeau zurÃ¼ck. Mirabeau will diesen Betrag jedoch nicht bezahlen. LiSA sieht angesichts der 
+umfangreichen vorprozessualen GesprÃ¤che keinen Sinn in einem Mediationsversuch und leitet ein 
+Schiedsverfahren beim Sekretariat des Swiss Arbitration Centre in ZÃ¼rich ein. 
+Mirabeau erhebt die UnzustÃ¤ndigkeitseinrede und bringt dabei namentlich folgende Argumente vor: 
+1. 
+2. 
+a.)  
+Die Schiedsvereinbarung laute auf FORSTER. Mirabeau habe nie eine 
+Schiedsvereinbarung mit LiSA abgeschlossen. 
+Die von LiSA angerufene Schiedsinstitution sei nicht die ""Vereinigung der Schweizer 
+Handelskammern"", sondern eine neue Institution, die aus der ""Vereinigung der Schweizer 
+Handelskammern"" hervorgegangen sei.  
+Wer entscheidet Ã¼ber die UnzustÃ¤ndigkeitseinrede? Kann der Entscheid unabhÃ¤ngig von der Hauptsache ergehen und wÃ¤re ein solcher Entscheid anfechtbar?",Art. 176 Abs. 1 IPRG;Art. 186 Abs. 1 IPRG;Art. 186 Abs. 3 IPRG;Art. 190 Abs. 3 IPRG
+train_0005,"Die Stadt Winterthur beschloss am 10. Februar 2022, die Fabrikantenvilla Â«AlpenschlossÂ» nicht unter Denkmalschutz zu stellen. Gegen diesen Beschluss erhob der Verein fÃ¼r Orts- und Kulturpflege ohne anwaltliche Vertretung Rekurs beim Baurekursgericht des Kantons ZÃ¼rich. Zu seiner Legitimation fÃ¼hrt der Verein mit Sitz in Aarau aus, er setze sich seit dem Jahr 2000 gesamtschweizerisch statutengemÃ¤ss fÃ¼r eine vielfÃ¤ltige Kultur sowie fÃ¼r intakte, harmonische Ortsbilder ein, worunter er auch die Erhaltung wichtiger Zeugen der Kultur und Architektur zÃ¤hle. Neben der GeschÃ¤ftsstelle in Aarau verfÃ¼ge er Ã¼ber eine Regionalvertretung in ZÃ¼rich sowie eine in Fribourg. Aus der Homepage des Vereins geht ausserdem hervor, dass er gelegentlich ein Verzeichnis mit Ortschaften und Ortsteilen publiziert, welche er ohne nÃ¤here BegrÃ¼ndung in verschiedene Kategorien einteilt (A: ortstypisch, harmonisch, malerisch â€“ B: ohne architektonischen orts typischen Charakter â€“ C: unpassend, verunstaltend, architektonisch chaotisch). Das Baurekursgericht verzichtete auf die DurchfÃ¼hrung eines Vernehmlassungsverfahrens und trat am 25. Mai 2022 auf den Rekurs nicht ein. Es begrÃ¼ndete seinen Entscheid wie folgt: Der Verein habe es versÃ¤umt, seine legitimationsbegrÃ¼ndende TÃ¤tigkeit ausfÃ¼hrlicher darzu legen und mit Unterlagen zu belegen. Der Rekurs sei deshalb nicht genÃ¼gend substantiiert. Das Baurekursgericht ging in seiner UrteilsbegrÃ¼ndung nicht auf das auf der Homepage des Vereins genannte Verzeichnis der Ortschaften und Ortsteile ein. Der Verein ist empÃ¶rt Ã¼ber diesen Entscheid und mÃ¶chte ihn weiterziehen. Der Verein fÃ¼r Orts- und Kulturpflege hat das Rechtsmittel gegen den Entscheid des Baure kursgerichts ergriffen und reicht mit seinem Rechtsmittel Unterlagen ein, woraus hervorgehen soll, dass er sich auch mit DenkmÃ¤lern und Ortschaften im Kanton ZÃ¼rich beschÃ¤ftigt hat. So findet sich nun ein Auszug aus dem oben genannten Verzeichnis von Ortschaften und Ortstei len im Kanton ZÃ¼rich bei den Akten, welche er kategorisiert hat. Gehen Sie davon aus, dass das Baurekursgericht auf den Rekurs des Vereins fÃ¼r Orts- und 
+Kulturpflege eintritt und die Frage, ob die Stadt Winterthur das Â«AlpenschlossÂ» zurecht nicht 
+unter Schutz gestellt hat, materiell zu beurteilen hat. Bei den Akten liegt ein denkmalpflegeri
+sches Gutachten, das die Stadt Winterthur eingeholt hat und auf das sie sich in ihrem Be
+schluss wesentlich abstÃ¼tzt. Der Verein fÃ¼r Orts- und Kulturpflege bringt in seiner Replik erst
+mals vor, die Gutachterin sei Vorstandsmitglied des Vereins der HauseigentÃ¼mer ZÃ¼rich, einer Untersektion des Schweizerischen Vereins der HauseigentÃ¼mer. Dieser Verein sei bekannt fÃ¼r 
+seine eigentÃ¼mer- und investorenfreundliche Haltung. Der Denkmalschutz werde Â«in diesen 
+KreisenÂ» als Ã¼berflÃ¼ssig angesehen. Ãœberhaupt sei dieses Gutachten ein GefÃ¤lligkeitsgutach
+ten. Der Verein fÃ¼r Orts- und Kulturpflege reicht ein von ihm in Auftrag gegebenes Gutachten 
+ein, welches zu einem anderen Schluss kommt als dasjenige, das die Stadt Winterthur einge
+holt hat. Nehmen Sie an, die letzte kantonale Rechtsmittelinstanz hat das Rechtsmittel des Vereins fÃ¼r 
+Orts- und Kulturpflege gutgeheissen und das Verfahren an die Stadt Winterthur zurÃ¼ckgewie
+sen, um das Â«AlpenschlossÂ» unter Denkmalschutz zu stellen. Gegen diesen Entscheid mÃ¶chte 
+sich die Stadt Winterthur wehren. Anhang 
+Auszug aus dem Planungs- und Baugesetz (PBG) des Kantons ZÃ¼rich 
+C. Rekurs- und Beschwerdelegitimation 
+I. Allgemein 
+Â§ 338 a. Zum Rekurs und zur Beschwerde ist berechtigt, wer durch die angefochtene Anord
+nung berÃ¼hrt ist und ein schutzwÃ¼rdiges Interesse an ihrer Aufhebung oder Ã„nderung hat. 
+Dasselbe gilt fÃ¼r die Anfechtung von Erlassen. 
+II. Kantonale Verbandsbeschwerde 
+Â§ 338 b. 1 Gesamtkantonal tÃ¤tige VerbÃ¤nde, die sich seit wenigstens zehn Jahren im Kanton 
+statutengemÃ¤ss dem Natur- und Heimatschutz oder verwandten, rein ideellen Zielen wid
+men, kÃ¶nnen Rekurs oder Beschwerde erheben gegen: 
+a. Anordnungen und Erlasse, soweit sie sich auf den III. Titel [Der Natur- und Heimatschutz] 
+oder Â§ 238 Abs. 2 stÃ¼tzen, 
+b. Bewilligungen fÃ¼r Bauten und Anlagen ausserhalb der Bauzonen, 
+c. Festsetzungen von Ã¼berkommunalen GestaltungsplÃ¤nen ausserhalb der Bauzonen. 
+2Das Rekurs- oder Beschwerderecht steht den VerbÃ¤nden nur fÃ¼r RÃ¼gen zu, die mit den In
+teressen des Natur- und Heimatschutzes in unmittelbarem Zusammenhang stehen. 
+3Treffen Gesuchsteller und Verband Vereinbarungen Ã¼ber Verpflichtungen, die Belange des 
+Ã¶ffentlichen Rechts betreffen, gelten diese ausschliesslich als gemeinsame AntrÃ¤ge an die 
+BehÃ¶rde. Diese berÃ¼cksichtigt das Ergebnis in ihrer Anordnung oder ihrem Entscheid, soweit 
+sich die Vereinbarungen als rechtmÃ¤ssig und angemessen erweisen und der Sachverhalt 
+richtig und vollstÃ¤ndig festgestellt wurde. 
+4Vereinbarungen zwischen Gesuchstellern und VerbÃ¤nden Ã¼ber finanzielle oder andere 
+Leistungen sind nicht zulÃ¤ssig, soweit diese bestimmt sind fÃ¼r: 
+a. die Durchsetzung von Verpflichtungen des Ã¶ffentlichen Rechts, insbesondere behÃ¶rdlicher 
+Auflagen, 
+b. Massnahmen, die das Ã¶ffentliche Recht nicht vorsieht oder die in keinem Zusammenhang 
+mit dem Vorhaben stehen, 
+c. die Abgeltung eines Rechtsmittelverzichts oder eines anderen prozessualen Verhaltens. 
+5Die RechtsmittelbehÃ¶rde tritt auf einen Rekurs oder eine Beschwerde nicht ein, wenn die
+ser oder diese rechtsmissbrÃ¤uchlich ist oder der Verband unzulÃ¤ssige Leistungen im Sinne 
+von Abs. 3 gefordert hat.  
+Welche Voraussetzungen mÃ¼ssen erfÃ¼llt sein, damit die Stadt Winterthur ein Rechts mittel vor Bundesgericht ergreifen kann? ErlÃ¤utern Sie kurz inwiefern diese erfÃ¼llt sind. BeschrÃ¤nken Sie sich bei Ihrer Antwort auf das Anfechtungsobjekt, die Beschwerdele gitimation und BeschwerdegrÃ¼nde.",Art. 93 Abs. 1 BGG;Art. 89 Abs. 1 BGG;Art. 89 Abs. 2 BGG;Art. 50 BV;Art. 95 BGG;Art. 106 Abs. 2 BGG
+train_0006,"Thomas, 21-jÃ¤hrig und schon sein ganzes Leben lang wohnhaft in ZÃ¼rich bei den Eltern, ist Bachelorstudent an der Rechtswissenschaftlichen FakultÃ¤t der UniversitÃ¤t ZÃ¼rich. Neben dem Studium geht er keiner Arbeit nach. Studium etc. wird vollstÃ¤ndig durch die Eltern finanziert, die relativ wohlhabend sind. Nennenswertes eigenes VermÃ¶gen besitzt er keines. Am 5. Januar 2022 hat er die WiederholungsprÃ¼fung im Strafrecht I abgelegt. Bei Nichtbestehen droht ihm der Ausschluss vom Studium. Um auf Nummer sicher zu gehen, dass er dieses Mal besteht, beschliesst er, sein PrÃ¼fungsergebnis selbst festzulegen. Hierzu kauft er sich im Darknet eine Software, die ihm Zugriff auf den (durch Zwei-Faktor-Authentifizierung geschÃ¼tzten) Computer des Professors geben kann. Er verschickt die Software in einem Word Dokument (â€œDisposition.docxâ€) versteckt per E-Mail an den Professor. Im E-Mail bittet er den Professor um die Betreuung seiner Seminararbeit. Die Disposition befinde sich im Anhang. Der Professor Ã¶ffnet das Word-Dokument, welches auch tatsÃ¤chlich eine rudimentÃ¤re Disposition zu einem Seminarthema enthÃ¤lt, wodurch sein Computer mit der Software infiziert wird. In der darauffolgenden Nacht am 8. Februar um 2:00 Uhr greift Thomas auf den Computer des Professors zu, sucht nach der Datei mit den Noten (die bereits erfasst wurden) und Ã¤ndert seine Note 3 in eine Note 5.5 um. Als der Professor am nÃ¤chsten Morgen in sein BÃ¼ro kommt, sieht er, dass sein Computer lÃ¤uft. 
+Thomas hatte nÃ¤mlich vergessen, diesen Ã¼ber seine Software wieder auszuschalten. Da ihm 
+das verdÃ¤chtig vorkommt, prÃ¼ft er seine Dateien genau. Dabei sieht er, dass die Datei mit den 
+Noten um 2:10 Uhr morgens zuletzt gespeichert wurde. Nach einer RÃ¼cksprache mit seinem 
+Team beschliesst er, bei der Polizei Anzeige zu erstatten. 
+Im Einvernehmen mit dem Professor und der UniversitÃ¤t untersucht die IT-Forensik noch am 
+selben Tag den Computer des Professors. Schnell wird klar, dass die Schadsoftware im 
+Anhang von Thomas E-Mail verborgen war. Die inzwischen eingeschaltete Staatsanwaltschaft 
+sieht im E-Mail einen wichtigen Beweis fÃ¼r Thomas Schuld. festzunehmen und seinen Computer sowie weitere digitale GerÃ¤te im Haus zu 
+beschlagnahmen. Die nÃ¶tigen schriftlichen Befehle liegen vor. Als Thomas die TÃ¼r Ã¶ffnet, ahnt 
+er bereits, um was es geht. Er schlÃ¤gt die TÃ¼r daher wieder zu und rennt zu seinem Computer, 
+um immerhin noch die Software und die E-Mail an den Professor zu lÃ¶schen. Die Polizisten, 
+die die TÃ¼re problemlos selbst Ã¶ffnen konnten, schaffen es aber, ihn nach einem leichten Gerangel festzunehmen, kurz nachdem er seinen Computer entsperrt hat. Thomas wird 
+festgenommen und sein Computer sowie sein Handy werden beschlagnahmt. Aufgrund des Vorfalls am Morgen beantragt die Staatsanwaltschaft beim 
+Zwangsmassnahmengericht Untersuchungshaft fÃ¼r Thomas. Die StrafverfolgungsbehÃ¶rden wollen bei dieser Gelegenheit auch die Person fassen, die 
+Thomas das Programm verkauft hat. Dazu wollen sie in einem Forum im Darknet unter einem 
+Pseudonym einen Scheinkauf tÃ¤tigen. Im Fall Thomas erhebt die Staatsanwaltschaft Anklage wegen allen in Frage kommenden 
+Delikten. In der Hauptverhandlung streitet Thomas erst alles ab. Ãœberhaupt wÃ¼rden ihm die 
+Kenntnisse fÃ¼r eine solche Tat fehlen. In der Pause vor der Replik kommt Thomas aber zum 
+Schluss, dass es aussichtslos sei. In der Replik gesteht er daher die ihm vorgeworfenen Taten. 
+Das Gericht erklÃ¤rt ihn daraufhin fÃ¼r schuldig im Sinne der Anklage.  
+Was sind die Voraussetzungen fÃ¼r eine bedingte Strafe? KÃ¤me dies vorliegend in Frage?",Art. 42 Abs. 1 StGB;Art. 106 StGB;Art. 42 Abs. 4 StGB
+train_0007,"Erblasserin E hinterlÃ¤sst zwei Kinder, Ki und K2, sowie ein NettovermÃ¶gen von CHF 500000. Es gilt die gesetzliche Erbfolge. Zu Lebzeiten hat K1 von E CHF 100Â°000 als UnterstÃ¼tzung zur GrÃ¼ndung seines Unternehmens geschenkt bekommen: K2 hat von E ebenfalls CHF 100Â°000 ohne Gegenleis- tung erhalten, um sich fÃ¼r sein FreizeitvergnÃ¼gen einen Oldtimer zu kaufen. E hat K2 zudem aus- drÃ¼cklich von etwaigen Ausgleichungspflichten befreit. 
+Sind K1 und K2 zur Ausgleichung verpflichtet? PrÃ¼fen Sie alle Voraussetzungen der Ausglei- chungspflicht. AusfÃ¼hrungen zur konkreten HÃ¶he der Ausgleichungspflicht sind nicht erforderlich.",Art. 626 Abs. 1 ZGB;Art. 626 Abs. 2 ZGB;Art. 630 ZGB
+train_0008,"Herr Schlau-Meier ist EigentÃ¼mer sÃ¤mtlicher Aktien der Schlau AG (S AG; Aktienkapital:
+CHF 500'000.-, Agio: CHF 200'000.-). Die S AG verfÃ¼gt Ã¼ber offene Reserven (inkl. Agio
+von CHF 200'000.-) im Umfang von CHF 1 Mio. in liquider Form. Stille Reserven sind
+demgegenÃ¼ber keine vorhanden.
+Ende Juni 2015 verkauft Herr Schlau-Meier die Aktien der S AG zum Verkehrswert von CHF
+1.5 Mio. an die Z AG. Er ist Verwaltungsrat dieser Gesellschaft und zu 25% an ihr beteiligt.
+Der Z AG wird eine Frist von einem Jahr zur Bezahlung des Kaufpreises eingerÃ¤umt. Zur
+Tilgung des Kaufpreises greift die Z AG anfangs Juli 2016 im Umfang von CHF 1 Mio. auf
+die Reserven der S AG zurÃ¼ck, indem sie eine DividendenausschÃ¼ttung vornimmt. Dabei
+stammen CHF 250'000.- aus dem Jahresgewinn der S AG im GeschÃ¤ftsjahr 2015/16, welches
+Ende Juni 2016, endete. CHF 750â€˜000 stammen aus den Gewinnreserven der S AG, die mit
+Jahresgewinnen aus frÃ¼heren GeschÃ¤ftsjahren gebildet wurden. CHF 500â€˜000 stammen aus
+den Mitteln der Z AG. 
+Hat das Vorgehen gewinnsteuerrechtliche Folgen fÃ¼r die Z AG/S AG, wenn ja, in
+welchem Umfang?",Art. 69 DBG
+train_0009,"Ein Gesamtarbeitsvertrag schreibt fÃ¼r den Fall einer fristlosen Entlassung vor, dass immer zuerst eine Verwarnung ausgesprochen werden muss, bevor fristlos gekÃ¼ndigt werden kann. 
+Wie beurteilen Sie eine solche Klausel?",Art. 358 OR;Art. 337 OR;Art. 361 OR
+train_0010,"Die ILU-AG, ein multinationaler, im Bergbau tÃ¤tiger Konzern, betreibt fÃ¼r Zwecke des Bergbaus einen Staudamm im Wallis. Die jÃ¤hrlichen Kontrollen werden durch die Tochterfirma T-GmbH getÃ¤tigt. Hans, der GeschÃ¤ftsfÃ¼hrer der ILU-AG, weist den Kontrolleur der Firma T-GmbH Manuel stets dazu an, die jÃ¤hrliche SicherheitsprÃ¼fung des Staudamms durchgehen zu lassen. DafÃ¼r erhÃ¤lt er jeweils einen finanziellen Â«BonusÂ». Letztes Jahr hatte Manuel aber derartige Bedenken, dass er Hans mitteilte, dass unverzÃ¼glich bauliche Massnahmen getÃ¤tigt werden mÃ¼ssten, um Schlimmeres zu verhindern. Hans verdoppelte den Bonus daraufhin und versprach ihm, baldmÃ¶glichst mit der Konzernleitung zu sprechen und entsprechende Massnahmen in die Wege zu leiten. Schweren Herzens nahm Manuel das Angebot an und erzÃ¤hlte niemanden von der maroden Bausubstanz des Staudamms. Einen Monat spÃ¤ter bricht der Damm wegen starken Regens und hundert Menschen kommen dabei ums Leben. Auch die Compliance-Beauftrage der ILU-AG Beatrice wusste von den VorgÃ¤ngen, wurde aber nicht tÃ¤tig, weil sie in Bezug auf AbschlÃ¼sse der GeschÃ¤ftsfÃ¼hrung nicht eingriffs- oder weisungsbefugt war. Beatrice ist grundsÃ¤tzlich eine sehr engagierte Mitarbeiterin. Sie hat fÃ¼r die ILU-AG einen Code of Conduct ausgearbeitet und diverse Massnahmen vorgeschlagen, um diesen effizient durchzusetzen; u.a. mit einem regelmÃ¤ssigen Monitoring und einer periodischen Risikoevaluierung. Seit fast einem Jahr schiebt der Verwaltungsrat der ILU-AG einen Beschluss bezÃ¼glich dieser VorschlÃ¤ge vor sich her. Generell verhÃ¤lt sich der Verwaltungsrat der ILU-AG passiv, hÃ¤lt selten Verwaltungsratssitzungen ab und vertraut gÃ¤nzlich dem KÃ¶nnen von GeschÃ¤ftsfÃ¼hrer Hans. Seit einiger Zeit hat der Verwaltungsrat auch Hinweise, dass Hansâ€™ Vorgehensweise nicht immer tadellos ist. Trotzdem unternimmt der Verwaltungsrat nichts; v.a. auch deshalb, weil fÃ¼r eine grÃ¼ndliche Untersuchung die Strukturen fehlen. Ganz anders verhÃ¤lt es sich in der Tochtergesellschaft T-GmbH. Die oben genannten Massnahmen werden schon seit einiger Zeit umgesetzt. Ausserdem wurde ein transparentes Sanktionensystem fÃ¼r VerstÃ¶sse gegen Rechtsnormen und interne Leitlinien eingefÃ¼hrt, ebenso wie ein internes whistleblowing Verfahren. 
+Sie sind Staatsanwalt/StaatsanwÃ¤ltin in diesem Fall: Welche potenziell strafrechtlich Verantwortlichen gibt es in casu? Benennen Sie die wichtigsten Delikte, die von ihnen mutmasslich begangen worden sein kÃ¶nnten. Welche Haftungs- oder Zurechnungsformen kommen in Bezug auf die Delikte bei den einzelnen Haftungssubjekten in Betracht?",Art. 11 StGB;Art. 29 StGB;Art. 111 StGB;Art. 158 StGB;Art. 117 StGB;Art. 102 Abs. 1 StGB;Art. 102 Abs. 2 StGB;Art. 102 StGB;Art. 102 Abs. 4 StGB;Art. 706 OR;Art. 717 OR;Art. 643 OR;Art. 716a Abs. 1 OR;Art. 12 Abs. 2 StGB
+train_0011,"Welche rechtlichen Schwierigkeiten stellen sich, wenn dieser DurchlÃ¤ssigkeitsgedanke nunmehr
+auch in den Strafvollzug vordringt?",Art. 65 StGB;Art. 65 Abs. 1 StGB
+train_0012,"Grenzen Sie die ZustÃ¤ndigkeiten der verschiedenen BehÃ¶rden zur Sanktionierung
+und Strafverfolgung im Bereich der Finanzmarktaufsicht ab. Welche Sanktionen und
+Strafen kÃ¶nnen von den entsprechenden BehÃ¶rden in den jeweiligen ZustÃ¤ndigkeits-
+bereichen verhÃ¤ngt werden?",Art. 50 FINMAG;Art. 156 FinfraG;Art. 144 FinfraG
+train_0013,"Mechaniker G hat einen schriftlichen Verweis erhalten, weil er sich gegenÃ¼ber Arbeitskolleginnen unangemessen verhalten haben soll. Grundlage fÃ¼r den Verweis bildet ein mehrseitiger Bericht der Personalchefin, der sich auch auf Beschwerden der betroffenen Frauen stÃ¼tzt. Der Bericht wird G vorenthalten. Stattdessen erhÃ¤lt er eine mÃ¼ndliche Zusammenfassung ohne Nennung von Namen. 
+G mÃ¶chte Einsicht in den Bericht bzw. die darin enthaltenen Informationen erhalten. Was raten Sie ihm und wie beurteilen Sie die Rechtslage?",Art. 8 DSG;Art. 8 Abs. 5 DSG;Art. 9 Abs. 1 DSG;Art. 9 Abs. 4 DSG;Art. 9 Abs. 5 DSG
+train_0014,"Die Stadtpolizei ZÃ¼rich prÃ¼ft den Einsatz von Bodycams, welche die Streifenpolizistinnen und polizisten an der Uniform tragen und in bestimmten Situationen einschalten wÃ¼rden. Die Bodycams zeichnen die VorgÃ¤nge aus Sicht der TrÃ¤gerinnen und TrÃ¤ger in Bild und Ton auf. Der Nutzen der Bodycams ist jedoch im Polizeikorps umstritten. Sie werden mit der Erstellung eines kurzen Rechtsgutachtens beauftragt, worin die Stadtpolizei ZÃ¼rich um Beantwortung folgender Fragen ersucht: 
+Wer ist beim Einsatz von Bodycams in welchen Grundrechten der BV und der EMRK berÃ¼hrt und was sind generell die Voraussetzungen fÃ¼r die EinschrÃ¤nkung dieser Rechte?",Art. 13 BV;Art. 36 BV
+train_0015,"Der Iraker Haias reiste im Jahr 2010 in die Schweiz ein und stellt unter falscher iranischer IdentitÃ¤t und falschem Namen Navid einen Asylantrag. Da er die Krite rien des FlÃ¼chtlingsbegriffs nicht erfÃ¼llt, wird sein Asylgesuch abgewiesen. Die Lage im Iran ist jedoch prekÃ¤r. TÃ¤glich erleiden Menschen schwere Gewalt durch verschiedene Akteure. Das Gesundheitssystem funktioniert kaum und die allge meine Sicherheit ist nicht gegeben. 
+Haias fragt Sie als Expertin oder Experte, ob er nun auf jeden Fall zurÃ¼ckrei sen muss, da er ja kein FlÃ¼chtling sei. Was antworten Sie? (Bemerkung: Haiasâ€™ TÃ¤uschung Ã¼ber IdentitÃ¤t und Herkunft ist hier noch nicht zu berÃ¼ck sichtigen, sondern lediglich das verweigerte Asyl fÃ¼r den angeblichen Navid aus Iran.)",Art. 83 AIG;Art. 44 AsylG;Art. 83 Abs. 2 AIG;Art. 83 Abs. 3 AIG;Art. 25 Abs. 3 BV;Art. 83 Abs. 4 AIG;Art. 41 Abs. 2 AIG
+train_0016,"Der Grosse Gemeinderat der Stadt W (Parlament) fasste am 30. November 2018 den
+folgenden Beschluss zur Ã„nderung der Verordnung Ã¼ber die Abgabe von ElektrizitÃ¤t vom
+27. Juni 2011 (VAE):
+Â§ 32
+1 Der Grosse Gemeinderat genehmigt die ElektrizitÃ¤ts- und Netznutzungstarife. Der
+ElektrizitÃ¤tstarif richtet sich nach den Marktpreisen fÃ¼r vergleichbare Energieprodukte. Der
+Netznutzungstarif bemisst sich aufgrund der tatsÃ¤chlichen Kosten (investiertes Kapital
+inklusive Verzinsung von 2% und Betriebskosten).
+[â€¦]
+3 Der Stadtrat (Exekutive) kann Abgaben an das Gemeinwesen basierend auf der bezogenen
+ElektrizitÃ¤t bis maximal 1.2 Rp/kWh festlegen (z.B. zur Finanzierung energiepolitischer
+Massnahmen). Die Festsetzung der HÃ¶he und die zweckgebundene Verwendung der
+Abgaben erfolgt jÃ¤hrlich auf Antrag des Stadtrates mittels Beschluss des Grossen
+Gemeinderates.
+Weiter beschloss der Grosse Gemeinderat am gleichen Tag was folgt:
+GestÃ¼tzt auf Â§ 32 Abs. 3 VAE wird ab 1. Januar 2019 auf den jÃ¤hrlichen Strombezug
+folgende Abgabe an das Gemeinwesen erhoben: fÃ¼r die ersten 100â€˜000 kWh Strom pro
+Abnahmestelle 1 Rp/kWh: davon 0.68 Rp/kWh als Beitrag an die Ã¶ffentliche Beleuchtung auf
+kommunalen Strassen (Beleuchtungskosten an sich, Ã¶kologische und technische
+Verbesserungen) sowie 0.32 Rp/kWh fÃ¼r die Finanzierung des FÃ¶rderprogramms Energie im
+GebÃ¤udebereich.
+Als die Einwohner H, O und Z die Stromrechnungen erhielten, beschlossen sie, sich gegen
+diese Abgabe fÃ¼r die Strassenbeleuchtung und der Finanzierung des FÃ¶rderprogramms
+Energie im GebÃ¤udebereich zur Wehr zu setzen. 
+
+Art. 4 StromVV (ElektrizitÃ¤tstarife und KostentrÃ¤gerrechnung fÃ¼r Energielieferung)
+1 Der Tarifanteil fÃ¼r die Energielieferung an Endverbraucher mit Grundversorgung orientiert
+sich an den Gestehungskosten einer effizienten Produktion und an langfristigen
+BezugsvertrÃ¤gen des Verteilnetzbetreibers. 
+H, O und Z mÃ¶chten von Ihnen eine
+rechtliche Beurteilung dieser Tarifvorschriften und wollen im Einzelnen eine
+ChancenabschÃ¤tzung Ã¼ber das nachfolgende Argument:
+
+Das StromVG verbietet es, dass die Stadt W eigene Tarifvorschriften aufstellt und
+eine Genehmigungspflicht des Grossen Gemeinderates einfÃ¼hrt.",Art. 4 StromVV;Art. 6 Abs. 3 StromVG;Art. 4 Abs. 1 StromVV;Art. 15 StromVG;Art. 15 Abs. 1 StromVG;Art. 15 Abs. 2 StromVG;Art. 15 Abs. 3 StromVG;Art. 49 Abs. 1 BV;Art. 22 Abs. 2 StromVG
+train_0017,"Die X AG ist ein Industrieunternehmen, dessen GeschÃ¤fte sehr gut laufen. Um die vielen Auf trÃ¤ge erfÃ¼llen zu kÃ¶nnen, braucht das Unternehmen zusÃ¤tzliche Maschinen, deren Beschaf fung und Unterhalt teuer sind. Daher entscheidet sich der Verwaltungsrat der X AG, dass neues Fremdkapital in Form einer Anleihensobligation aufgenommen werden soll. Angedacht ist die Ausgabe von Anteilen an einem Gesamtdarlehen mit einem Gesamtnominalwert von 40 Mio. CHF mit einheitlichen Bedingungen bezÃ¼glich Ausgabepreis pro StÃ¼ck, Zinssatz und Laufzeit. So soll die Laufzeit 10 Jahre betragen und der Zinssatz soll sich auf einen Referenz zinssatz beziehen. Die Anteile sollen dem breiten Publikum (also auch Privatanlegern) in der Schweiz zu einer MindeststÃ¼ckelung von 10â€™000 CHF angeboten werden. Zudem sollen die zu emittierenden Anleihen an der SIX Swiss Exchange kotiert werden. Der Verwaltungsrat wendet sich nun an Sie als Leiter/in der Rechtsabteilung der X AG mit folgenden Fragen: 
+Angenommen, es ist erlaubt: Muss die X AG fÃ¼r die Anleihensobligation ein Basisinformationsblatt erstellen? (Auf den Inhalt eines allfÃ¤lligen Basisinforma tionsblatts und auf die Art der VerÃ¶ffentlichung ist nicht einzugehen.)",Art. 58 Abs. 1 FIDLEG;Art. 3 FIDLEG;Art. 59 Abs. 1 FIDLEG;Art. 86 Abs. 3 FIDLEV
+train_0018,"Die Greifensee-Bahn AG plant den Bau einer Gondelbahn (Umlaufbahn) Ã¼ber den Greifen see. Sie mÃ¶chte deshalb die entsprechenden verfahrensrechtlichen Schritte einleiten. Sie kommt mit dem Seilbahngesetz (SebG, SR 743.01) in der Hand zu Ihnen und mÃ¶chte mit Ihnen die ersten Schritte klÃ¤ren. Sie erkundigen sich beim Bundesamt fÃ¼r Verkehr (BAV), ob noch weitere Verfahren zu 
+durchlaufen sind. Das BAV gibt Ihnen die Antwort, dass allenfalls Sondernutzungskonzessi
+onen einzuholen sind (Sondernutzung des Ã¶ffentlichen Grundes der Standortgemeinden fÃ¼r 
+die Stationen) und eine Wassernutzungskonzession, weil ein Masten in das Wasser zu ste
+hen kommt) sowie die planerischen Grundlagen zu schaffen sind (Richtplaneintrag, der vom 
+Kantonsrat festgesetzt wird, und regionaler Gestaltungsplan, der von der Baudirektion des 
+Kantons ZÃ¼rich festzusetzen ist). Das BAV weist darauf hin, dass sich dies aus Art. 9 SebG 
+ergebe. Gehen Sie davon aus, dass die Aussagen des BAV richtig sind. Die Greifensee-Bahn AG 
+befÃ¼rchtet eine sehr lange Verfahrensdauer, zumal sie eine nicht unerhebliche Opposition 
+vermutet, kommt doch die Gondelbahn mitten in den See zu liegen und wird damit die be
+liebte Bergsicht in die Alpen teilweise verstellt.   
+Sie mÃ¶chte von Ihnen die InstanzenzÃ¼ge wissen fÃ¼r die Plangenehmigung, fÃ¼r die Sondernutzungskonzession (zustÃ¤ndig sind die GemeinderÃ¤te [Exekutiven] der jewei ligen Standortgemeinden der Stationen), die Wassernutzungskonzession (zustÃ¤ndig ist das kantonale Amt fÃ¼r Abfall, Wasser, Energie und Luft (AWEL) Kanton ZÃ¼rich und den regionalen Gestaltungsplan (zustÃ¤ndig fÃ¼r die Festsetzung ist die Baudirektion des Kantons ZÃ¼rich; vgl. Â§ 329 PBG). Nennen Sie die jeweilige Abfolge der Instanzen (Bezeichnung und massgebliche Rechtsnorm(en) genÃ¼gen).",Art. 9 SebG;Art. 32 VGG;Art. 86 Abs. 1 BGG;Art. 83 BGG;Art. 86 Abs. 2 BGG
+train_0019,"Sachverhalt 
+Albert, der Schweizer BÃ¼rger ist, und ausschliesslich die deutsche und wegen eines
+langjÃ¤hrigen Aufenthaltes in Portugal auch die portugiesische Sprache beherrscht, ist
+AlleinaktionÃ¤r und einziger Verwaltungsrat der Beta Immobilien AG. Er will das im
+Eigentum der Beta Immobilien AG stehende, im Kanton ZÃ¼rich liegende GrundstÃ¼ck Y
+ungeachtet allfÃ¤lliger Steuerfolgen an Paulo verkaufen. Paulo ist zwar auch Schweizer BÃ¼rger,
+lebt aber seit seiner Kindheit in Portugal; er spricht ausschliesslich Portugiesisch und
+Englisch. Die Mitarbeitenden des zustÃ¤ndigen Notariats haben keine ausreichenden
+Kenntnisse der portugiesischen Sprache. 
+Gibt es eine Alternative zum gemÃ¤ss lit. b dargestellten Vorgehen? (Stichwortartige
+AusfÃ¼hrungen genÃ¼gen)",Art. 32 Abs. 1 OR;Art. 396 Abs. 1 OR;Art. 33 Abs. 3 OR;Art. 396 Abs. 3 OR
+train_0020,"FlÃ¼chtlings- und Asylrecht hÃ¤ngen eng zusammen. 
+Welches sind die Voraussetzungen fÃ¼r die AsylgewÃ¤hrung? ErklÃ¤ren Sie sie mit je einem
+Satz.",Art. 3 AsylG;Art. 49 AsylG;Art. 53 AsylG;Art. 54 AsylG;Art. 55 AsylG
+train_0021,"Was kann die FINMA tun, wenn sie Berufsstandards fÃ¼r allgemein verbindlich (auch gegenÃ¼ber Dritten) erklÃ¤ren mÃ¶chte?",Art. 7 Abs. 3 FINMAG
+train_0022,"C arbeitet als SportartikelverkÃ¤uferin bei der D AG, einem auf den Bereich Wassersport spe zialisierten SportgeschÃ¤ft in Winterthur. Nachdem im Lager immer wieder Sportartikel ver schwunden sind, teilt der Inhaber der D AG allen Angestellten mit, ab nÃ¤chster Woche wÃ¼r den die LagerrÃ¤ume flÃ¤chendeckend mit Videokameras Ã¼berwacht. C ist damit nicht einver standen und beschwert sich beim Firmeninhaber, dass sie diese stÃ¤ndige Ãœberwachung als Eingriff in ihre PrivatsphÃ¤re empfinde. Ebenso bemÃ¤ngelt sie, dass sie vor allem wÃ¤hrend der Hochsaison im FrÃ¼hling und im Sommer ihre gesetzlichen Pausen nicht beziehen kÃ¶nne. 
+Welches ist die zentrale Bestimmung des Arbeitsschutzrechts, welche den Einsatz von Ãœberwachungs- und Kontrollsystemen am Arbeitsplatz regelt? Welche grundsÃ¤tz liche Unterscheidung nimmt diese Regelung vor, um zwischen zulÃ¤ssigem und unzu lÃ¤ssigem Einsatz zu unterscheiden?",Art. 26 ArGV 3
+train_0023,"Der heute 25-jÃ¤hrige Luca (L) hat im Alter von 17 Jahren auf brutalste Weise einen Mord an seiner damaligen Freundin begangen. Aufgrund sehr hoher RÃ¼ckfallgefahr ordnete das Ju gendgericht eine geschlossene Unterbringung i.S.v. Art. 15 Abs. 2 JStG an. L wurde fÃ¼r den Vollzug in das Massnahmenzentrum Uitikon (MZU) eingewiesen. Im Rahmen der Behandlung konnten jedoch kaum Fortschritte erzielt werden, weshalb die RÃ¼ckfallgefahr als unverÃ¤ndert hoch eingeschÃ¤tzt wird. 
+Kann etwas hinsichtlich der weiterhin bestehenden RÃ¼ckfallgefahr unternommen wer den?",Art. 15 Abs. 2 JStG;Art. 19 Abs. 3 JStG;Art. 426 Abs. 1 ZGB;Art. 426 ZGB;Art. 19 Abs. 2 JStG
+train_0024,"S wird um 2 Uhr morgens von den Polizisten L und M in der NÃ¤he eines brennenden GebÃ¤udes mit
+Verdacht auf Brandstiftung festgenommen und auf den Polizeiposten gebracht. Beim stark nach Rauch
+riechenden S findet sich neben einer Schachtel ZÃ¼ndhÃ¶lzer auch ein halbleerer Flachmann. M nimmt
+die GegenstÃ¤nde an sich und verstaut sie in einem dafÃ¼r vorgesehenen Schrank.
+Bei L kommt wÃ¤hrenddessen, aufgrund einer etwas ungenauen Zeugenbeschreibung im
+Zusammenhang mit einem einige Tage zurÃ¼ckliegenden Feuer, der Verdacht auf, dass S auch diesen
+Brand gelegt haben kÃ¶nnte. Dabei wurden am Tatort Blutspuren gefunden, weshalb er beim S die
+Erstellung eines DNA-Profils anordnet.
+Die Untersuchungen fÃ¼hren weder zur ErhÃ¤rtung noch zur EntkrÃ¤ftung des Tatverdachts. Die
+Staatsanwaltschaft stellt in der Folge beim Zwangsmassnahmengericht einen Antrag auf Anordnung
+der Untersuchungshaft. 
+Wie sollte das Zwangsmassnahmengericht Ihrer Meinung nach entscheiden? (Gehen
+sie davon aus, dass ein Haftgrund gegeben ist. HaftgrÃ¼nde sind daher nicht zu prÃ¼fen.)",Art. 221 StPO
+train_0025,"Anna hÃ¤lt 30 % der Aktien der C. AG, deren Bilanz per 31. MÃ¤rz 2022 vereinfacht wie folgt aussieht: Aktiven 850'000 350'000 200'000 100'000 200'000 Bankkredit Aktienkapital Reserven aus Kapitaleinlage offene Reserven 850'000 850'000 Die Reserven aus Kapitaleinlage gehen auf ein Agio zurÃ¼ck, das Otto, der zu 40% an der C. AG beteiligt ist, vor 5 Jahren im Zusammenhang mit einer KapitalerhÃ¶hung geleistet hat. Die C. AG mÃ¶chte ihren AktionÃ¤ren eine AusschÃ¼ttung von CHF 150'000 erbringen, wovon CHF 45'000 auf Anna entfielen. 
+Welches Vorgehen empfehlen Sie der C. AG im Hinblick auf die durch die AusschÃ¼ttung bei ihr und ihren AktionÃ¤ren eintretenden Steuerfolgen und warum?",Art. 20 Abs. 3 DBG;Art. 20 Abs. 1 DBG
+train_0026,"Andreas Adler (A), ein national bekannter Politiker, steckt mitten im Wahlkampf fÃ¼r einen Sitz
+im StÃ¤nderat und hat einen Termin fÃ¼r ein Fotoshooting vereinbart, um Portraitaufnahmen fÃ¼r
+seine Werbeplakate machen zu lassen. Fotograf ist Corbinian Cramer (C), der sich akribisch
+auf dieses Fotoshooting vorbereitet hat: Er hat einen Hintergrund in einem seriÃ¶sen Grauton
+ausgesucht und mit betrÃ¤chtlichem Aufwand und mehreren ProbelÃ¤ufen ein spezielles Licht-
+konzept ausgearbeitet, um Andreas Adler vor seiner Kamera so gut wie mÃ¶glich aussehen
+zu lassen. Andreas Adler erscheint, wie von Corbinian Cramer empfohlen, in einem dunkel-
+blauen Massanzug, einem weissen Hemd und einer safrangelben Krawatte zum Shooting.
+Obwohl Corbinian Cramer die LichtverhÃ¤ltnisse bereits im Vorfeld mehrfach getestet hat,
+besteht er auf einigen Probeaufnahmen, dies zum einen, um letzte Anpassungen an Licht
+und Kameraposition vornehmen zu kÃ¶nnen, zum anderen aber auch, um die Stimmung
+etwas aufzulockern. Er fordert Andreas Adler daher auf, ein paar mÃ¶glichst schlimme Gri-
+massen zu ziehen. Da Corbinian Cramer als Virtuose seines Fachs gilt, macht Andreas Adler
+bereitwillig mit.
+Andreas Adler bittet Corbinian Cramer, ihm die Grimassen-Aufnahmen per Mail zuzusenden,
+da er die lustigen Aufnahmen gerne seinen Kindern zeigen mÃ¶chte. Corbinian Cramer ver-
+spricht, ihm die Aufnahmen noch am selben Abend zukommen zu lassen. Beim Versand der
+Aufnahmen unterlÃ¤uft Corbinian Cramer allerdings ein gravierender Fehler und die Mail
+landet nicht bei Andreas Adler, sondern bei Bernd Block (B), mit dem der Fotograf am Tag
+zuvor ein Fotoshooting hatte. Bernd Block produziert regelmÃ¤ssig kurze und unterhaltsame
+Videos, die er regelmÃ¤ssig auf der Videoplattform Filmli.ch (eine neue schweizerische Platt-
+form nach dem Vorbild von YouTube) verÃ¶ffentlicht. Dadurch ist er schweizweit bekannt
+geworden.
+Bernd Block staunt nicht schlecht, als er im Anhang anstelle seiner Aufnahmen diejenigen
+des StÃ¤nderatskandidaten Andreas Adler erblickt, der grÃ¤ssliche Grimassen zieht. Sein
+anfÃ¤ngliches Staunen weicht aber schnell grosser Freude und er verwendet die Aufnahmen
+fÃ¼r sein neues Video, welches er auf Filmli.ch verÃ¶ffentlicht. Das Video beginnt mit einigen
+einleitenden Worten von Bernd Block an die Zuschauer: â€žAn Kompetenz fehlt es ihm nicht,
+aber ein SympathietrÃ¤ger war Andreas Adler wahrlich nie, viel zu kalt und emotionslos
+wirken seine Auftritte. Die Bilder, die ich Euch gleich zeigen werde, kÃ¶nnten ihm aber durch-
+aus einige Sympathiepunkte einbringen, ich bin auf jeden Fall begeistert!â€œ. Danach sind die
+insgesamt acht Aufnahmen von Andreas Adler in Endlosschlaufe zu sehen. Dieser Teil des
+Videos ist mit einer von Bernd Block selbst komponierten Melodie unterlegt und die ver-
+schiedenen Aufnahmen wechseln im Takt der Musik. Auf jeder einzelnen Aufnahme ist unten
+rechts gut sichtbar Folgendes zu lesen: â€žFotograf: Corbinian Cramerâ€œ.
+Das Newsportal 20min.ch berichtet Ã¼ber das Video, speichert dieses auf dem eigenen
+Server ab und schaltet es auf seiner Website auf. Innert KÃ¼rze wird das Video auf 20min.ch
+und Filmli.ch millionenfach angeklickt. Die Reaktionen auf die Grimassen-Aufnahmen von
+Andreas Adler fallen durchwegs positiv aus. In den Wahlkampfumfragen legt er nach der
+Publikation dieser Aufnahmen leicht zu, ohne dass ein direkter Zusammenhang zu den
+Aufnahmen festgestellt werden kann.
+Andreas Adler Ã¤rgert sich dennoch Ã¼ber die VerÃ¶ffentlichung der Aufnahmen. Er wollte diese
+ausschliesslich fÃ¼r private Zwecke nutzen, konkret um seinen beiden Kindern eine Freude zu
+machen. Der breiten Ã–ffentlichkeit hÃ¤tte er sich niemals in dieser in seinen Augen entwÃ¼rdi-
+genden Situation gezeigt und die ganze Geschichte ist ihm Ã¼ber alle Massen peinlich. 
+Bernd Block ist sich bewusst, dass sein Handeln rechtlich problematisch sein kÃ¶nnte und er
+gibt bei Ihnen deshalb ein Kurzgutachten in Auftrag. Dieses Kurzgutachten soll aufzeigen,
+wer gegen Bernd Block gestÃ¼tzt auf welche Rechtsgrundlage vorgehen kÃ¶nnte und wie die
+Erfolgsaussichten einzuschÃ¤tzen sind.",Art. 2 Abs. 2 URG;Art. 10 URG;Art. 9 Abs. 2 URG;Art. 19 Abs. 1 URG;Art. 11 URG;Art. 25 URG;Art. 19 URG;Art. 12 URG;Art. 28 URG;Art. 62 Abs. 1 URG;Art. 28 ZGB;Art. 3 DSG;Art. 4 Abs. 1 DSG;Art. 4 Abs. 2 DSG;Art. 4 Abs. 4 DSG;Art. 14 DSG;Art. 4 Abs. 3 DSG;Art. 5 DSG;Art. 34 DSG
+train_0027,"Sachverhalt:
+Die Swissgrid AG, welche das Schweizer StromÃ¼bertragungsnetz betreibt, will eine neue
+Hochspannungsleitung errichten und lanciert ein entsprechendes (Bewilligungs-)Verfahren
+beim Eidg. Starkstrominspektorat (ESTI).
+
+ZusÃ¤tzliche rechtliche Grundlagen:
+Auszug ElektrizitÃ¤tsgesetz (EleG)
+Art. 16 Abs. 1 [mit Auslassung bei XXX] und Abs. 2
+1 Wer Starkstromanlagen oder Schwachstromanlagen nach Artikel 4 Absatz 3 erstellen
+oder Ã¤ndern will, benÃ¶tigt eine [XXX].
+2 GenehmigungsbehÃ¶rde ist:
+a. das Inspektorat;
+b. das Bundesamt fÃ¼r Energie fÃ¼r Anlagen, bei denen das Inspektorat Einsprachen nicht
+erledigen oder Differenzen mit den beteiligten BundesbehÃ¶rden nicht ausrÃ¤umen
+konnte;
+c. die nach der jeweiligen Gesetzgebung zustÃ¤ndige BehÃ¶rde fÃ¼r Anlagen, die ganz o-
+der Ã¼berwiegend dem Eisenbahn- oder Trolleybusbetrieb dienen
+Art. 21
+Die Kontrolle Ã¼ber die AusfÃ¼hrung der in Artikel 3 erwÃ¤hnten Vorschriften wird Ã¼bertra-
+gen:
+1. fÃ¼r die elektrischen Eisenbahnen mit Inbegriff der Bahnkreuzungen durch elektrische
+Starkstromleitungen und der LÃ¤ngsfÃ¼hrung solcher neben Eisenbahnen sowie Kreu-
+zung elektrischer Bahnen durch Schwachstromleitungen, dem Bundesamt fÃ¼r Ver-
+kehr;
+2. fÃ¼r die Ã¼brigen Schwachstrom- und Starkstromanlagen mit Inbegriff der elektrischen
+Maschinen einem vom Bundesrat zu bezeichnenden Inspektorat.
+Art. 22
+Der Bundesrat kann anstelle der beiden Kontrollstellen nach Artikel 21 ein einziges In-
+spektorat einsetzen.
+Art. 23
+Gegen die VerfÃ¼gungen der GenehmigungsbehÃ¶rden nach Artikel 16 und der Kontroll-
+stellen nach Artikel 21 kann beim Bundesverwaltungsgericht Beschwerde gefÃ¼hrt wer-
+den.
+Auszug Verordnung Ã¼ber das EidgenÃ¶ssische Starkstrominspektorat
+Art. 1 EidgenÃ¶ssisches Starkstrominspektorat
+1 Aufsichts- und KontrollbehÃ¶rde fÃ¼r elektrische Anlagen, die nicht dem Bundesamt fÃ¼r
+Verkehr unterstehen, ist das EidgenÃ¶ssische Starkstrominspektorat (Inspektorat).
+2 Das Inspektorat ist eine besondere Dienststelle des Schweizerischen Elektrotechnischen
+Vereins (SEV) mit eigener Rechnung. Die Einzelheiten werden in einem Vertrag zwi-
+schen dem EidgenÃ¶ssischen Departement fÃ¼r Umwelt, Verkehr, Energie und Kommuni-
+kation (Departement) und dem SEV geregelt.
+3 Das Inspektorat untersteht der Aufsicht des Departementes. Bei Streitigkeiten aus dem
+Vertrag erlÃ¤sst dieses eine VerfÃ¼gung.
+Auszug Luftfahrtgesetz (LFG)
+Art. 41 Luftfahrthindernisse
+1 FÃ¼r die Erstellung und fÃ¼r die Ã„nderung eines Luftfahrthindernisses ist eine Bewilli-
+gung des BAZL erforderlich.
+1bis Der Bundesrat kann Vorschriften erlassen, um die Entstehung von Luftfahrthindernis-
+sen zu verhindern und um bereits bestehende Luftfahrthindernisse zu beseitigen oder an
+die BedÃ¼rfnisse der Sicherheit der Luftfahrt anzupassen.
+2 FÃ¼r die vÃ¶llige oder teilweise Beseitigung von Luftfahrthindernissen gilt die Bundesge-
+setzgebung Ã¼ber die Enteignung.
+Auszug Verordnung Ã¼ber die Infrastruktur der Luftfahrt (VIL)
+Art. 63 Erstellung und Ã„nderung von Luftfahrthindernissen
+Der EigentÃ¼mer muss fÃ¼r die Erstellung oder Ã„nderung von Bauten, Anlagen und Be-
+pflanzungen eine Bewilligung des BAZL einholen, wenn das Objekt:
+a. in einer Ã¼berbauten Zone eine HÃ¶he oder einen lotrecht gemessenen Bodenabstand
+von 60 m und mehr erreicht;
+b. in einem anderen Gebiet als einer Ã¼berbauten Zone eine HÃ¶he oder einen lotrecht
+gemessenen Bodenabstand von 25 m und mehr erreicht; oder
+c. eine massgebliche FlÃ¤che eines HindernisbegrenzungsflÃ¤chen-Katasters durchstÃ¶sst.
+Art. 64 Gesuch
+1 Der EigentÃ¼mer richtet sein Gesuch um Bewilligung an die kantonale Meldestelle zu-
+handen des BAZL. Mit dem Gesuch sind mindestens die folgenden Angaben und Unter-
+lagen einzureichen:
+a. Angaben zum EigentÃ¼mer;
+b. Beschreibung des Objekts;
+c. Datum der voraussichtlichen Erstellung;
+d. bei temporÃ¤ren Objekten: Datum des voraussichtlichen Abbruchs;
+e. Koordinaten der Lage und der HÃ¶he Ã¼ber Meer des Objekts; bei Kabelanlagen und
+Seilbahnen sind diese Angaben fÃ¼r jeden Maststandort erforderlich;
+f. Ausdehnung des Objekts (LÃ¤nge, Breite, HÃ¶he);
+g. Situationsplan im Massstab 1:25 000;
+h. bei Kabelanlagen und Seilbahnen: LÃ¤ngenprofil;
+i. bei anderen Anlagen: Grundrisse und Profilschnitt;
+j. die Baubewilligung, sofern vorhanden.
+2 Das BAZL kann die Anforderungen an die einzureichenden Unterlagen im Einzelfall
+erweitern und prÃ¤zisieren.
+3 Es kann fÃ¼r die Einreichung der Gesuche eine elektronische Plattform einrichten.
+(â€¦)
+Art. 66 PrÃ¼fung und Entscheid
+1 Das BAZL entscheidet, im Einvernehmen mit dem VBS, mit einer VerfÃ¼gung:
+a. ob der Bau, die Anlage oder die Bepflanzung ein Hindernis darstellt;
+b. ob der Bau, die Anlage oder die Bepflanzung errichtet oder geÃ¤ndert werden darf;
+c. ob eine Vermessung durchgefÃ¼hrt werden muss und welchen Anforderungen sie zu
+genÃ¼gen hat;
+d. ob und gegebenenfalls welche Sicherheitsmassnahmen (z.B. ProjektÃ¤nderung, Publi-
+kation, Markierung, Befeuerung) zugunsten der Luftfahrt zu treffen sind.
+1bis Das BAZL stellt dem EigentÃ¼mer die VerfÃ¼gung innert 30 Tagen nach Eingang des
+Gesuchs zu. Eine Kopie davon geht an die kantonale Meldestelle.
+1ter Das BAZL kann die Bewilligung befristen. Eine VerlÃ¤ngerung ist spÃ¤testens 30 Tage
+vor Ablauf der Befristung bei der kantonalen Meldestelle zuhanden des BAZL zu bean-
+tragen. Bei unbefristeten Bewilligungen prÃ¼ft das BAZL regelmÃ¤ssig, ob die Vorausset-
+zungen der Bewilligung eingehalten sind, und verfÃ¼gt wenn nÃ¶tig zusÃ¤tzliche Auflagen.
+2 Das BAZL stellt der kantonalen Meldestelle eine Kopie der VerfÃ¼gung zu.
+3 Vor Eintritt der Rechtskraft der VerfÃ¼gung des BAZL darf mit der Errichtung oder Ã„n-
+derung eines Luftfahrthindernisses nicht begonnen werden. Bei zeitlicher Dringlichkeit
+kann das BAZL eine Ausnahme gewÃ¤hren, wenn es sich um eine temporÃ¤re Baute, Anla-
+ge oder Bepflanzung handelt.
+4 â€¦ 
+Wie ist dabei zu verfahren, wenn das ESTI und das Bundesamt fÃ¼r Zivilluftfahrt
+(BAZL) zu einer bestimmten Rechtsfrage unterschiedliche Auffassungen vertreten?",Art. 62b RVOG;Art. 16 Abs. 2 EleG;Art. 62b Abs. 3 RVOG
+train_0028,"Der Spielzeughersteller ToyWatch AG (TW) ist in einer finanziellen Schieflage. Um die Verkaufszahlen anzukurbeln, entwickeln Mitarbeiter von TW die Puppe Â«EyelaÂ». Eyela ist eine ca. 30 cm grosse Puppe, in deren Augen zwei kleine Kameras eingebaut sind. Die Kameras lassen sich mit einer Software akti vieren, die auf einem EndgerÃ¤t (z.B. Smartphone oder Tablet) installiert werden kann. Bei Aktivierung wird ein Film aufgenommen, der drahtlos und in Echtzeit auf das EndgerÃ¤t gestreamt wird, ohne dort abgespeichert zu werden. TW wirbt damit, dass man beim Gebrauch von Eyela die Kinder vorÃ¼berge hend unbeaufsichtigt lassen kann, weil sich das Geschehen von Weitem beobachten lÃ¤sst. Der dreisprachige private Kindergarten (Chinesisch, Deutsch & Englisch, CDE) hat zu wenig Per
+sonal. Es steht jeweils nur ein Mitarbeiter zur VerfÃ¼gung, um auf die Kinder aufzupassen. Die Lei
+terin von CDE kauft deshalb einige Eyelas und lÃ¤sst ihre Mitarbeiter die Puppen bei der Arbeit 
+benutzen. Sie sind mit einem Mitarbeiter von CDE verlobt. Bei einem gemeinsamen romantischen 
+Dinner erzÃ¤hlt er Ihnen, wie gerne er die Eyelas im Kindergarten benutzt. 
+Wie schÃ¤tzen Sie das Verhalten von CDE aus Sicht des PersÃ¶nlichkeitsrechts ein? (Hinweis: Gehen Sie davon aus, dass allfÃ¤llige AnsprÃ¼che der Kinder von ihren 
+Eltern geltend gemacht werden.) ",Art. 28 ZGB
+train_0029,"Â«Wind of ChangeÂ» Das franzÃ¶sische Unternehmen Energie Eolienne Alsacienne (EEA) baut und errichtet Windkraftanlagen. EEA hat beim mittelstÃ¤ndischen deutschen Unternehmen Tanner Turbinen (TT) fÃ¼r zehn Windkraftanlagen in den Vogesen 30 FlÃ¼gel mit einer LÃ¤nge von je 55m bestellt. Der Rahmenvertrag untersteht dem Schweizer Recht, unter Ausschluss des Wiener Kaufrechtsabkommens. Er sieht in Ziffer 10.5 folgende Klausel zur Streiterledigung vor: ""Bei Streitigkeiten im Zusammenhang mit diesem Vertrag werden die Parteien versuchen, unter der Leitung einer vom Schweizer Dachverband Mediation SDM anerkannten Mediatorin eine Einigung herbeizufÃ¼hren. Kommt innerhalb von 45 Tagen ab der gemeinsamen Ernennung der Mediatorin keine Einigung zustande, ist jede Partei berechtigt, ein Schiedsverfahren nach der im Zeitpunkt der Einleitung des Schiedsverfahrens geltenden Schiedsordnung des Swiss Arbitration Center (""Swiss Rules"") einzuleiten. Das Schiedsgericht soll aus drei Personen bestehen. Schiedsort ist Basel. Als Verfahrenssprache vereinbaren die Parteien Deutsch."" 
+TT stellt in der Antwort zur Einleitungsanzeige u.a. folgendes Rechtsbegehren: ""Die Klage sei vollumfÃ¤nglich abzuweisen, soweit das Schiedsgericht zur Beurteilung Ã¼berhaupt zustÃ¤ndig ist."" In der Klageantwort macht TT zunÃ¤chst geltend, EEA habe die MÃ¤ngel verspÃ¤tet gerÃ¼gt, ausserdem seien die RÃ¼gen weitgehend unbegrÃ¼ndet. Zudem erhebt TT in dieser Eingabe die Einrede der UnzustÃ¤ndigkeit des Schiedsgerichts mit folgenden GrÃ¼nden: â€ Bei den Vertragsverhandlungen sei nie von einem Schiedsgericht die Rede gewesen. Nach den Allgemeinen Verkaufsbedingungen, welche TT der EEA zusammen mit der Offerte fÃ¼r die FlÃ¼gel zugestellt hat, sind Klagen gegen TT zwingend von den ordentlichen Gerichten am Hauptsitz des Unternehmens in Freiburg (DE) zu beurteilen. â€ 
+EEA hÃ¤tte ohnehin zuerst ein Mediationsverfahren einleiten mÃ¼ssen. Es fehle damit an 
+einer Prozessvoraussetzung fÃ¼r ein Schiedsverfahren. 
+Die Vertretung der EEA hÃ¤lt die Einrede der UnzustÃ¤ndigkeit fÃ¼r verspÃ¤tet. 
+Wer beurteilt die ZustÃ¤ndigkeit des Schiedsgerichts und wie wird die entsprechende Stelle 
+entscheiden? Nehmen Sie sowohl zur Auffassung der Vertretung der EEA als auch zu den beiden 
+Argumenten von TT betreffend die UnzustÃ¤ndigkeit Stellung!",Art. 186 Abs. 1 IPRG;Art. 186 Abs. 2 IPRG
+train_0030,"Der AnlagebetrÃ¼ger ZufÃ¤llig kommt G dem AnlagebetrÃ¼ger A auf die Spur, dessen Betrugseinnahmen sich auf verschiedenen Konti der Bank B befinden und auffÃ¤llig oft auf auslÃ¤ndische Konten transferiert werden. G ist Mitglied des sechskÃ¶pfigen Compliance-Komitees der Bank B-AG, das fÃ¼r Meldungen an die MROS gemÃ¤ss Art. 9 GwG zustÃ¤ndig ist. Sofort stellt G im Compliance-Komitee einen Antrag, ihren Verdacht gemÃ¤ss Art. 9 GwG an die MROS zu melden. G stimmt fÃ¼r die Meldung. H, I, J und K stimmen jedoch dagegen, obwohl sie erkennen, dass es sich um einen meldepflichtigen Fall handelt. M, die das ebenfalls erkennt, enthÃ¤lt sich. FÃ¼r ein Entscheid reicht das relative Mehr der Gremiumsmitglieder. Bei Pattsituationen wird die Abstimmung wiederholt, bis ein Entscheid die Mehrheit erreicht. Da G Ã¼berstimmt wurde, erfolgt keine Meldung an die MROS. In der Bank B ist schon lÃ¤nger bekannt, dass H, I, J und K sich regelmÃ¤ssig selbst in klar meldepflichtigen FÃ¤llen gegen Meldungen an die MROS sperren. VorschlÃ¤ge von G, die Entscheidungskompetenz bei Verdachtsmeldungen zu reorganisieren (z.B. Entscheidungskompetenz durch Einzelperson statt durch Gremium oder Reorganisation des Gremiums) werden nicht gehÃ¶rt. G wendet sich an Sie und fragt, ob sie trotz des negativen Entscheids des Gremiums der MROS selbst den Verdacht melden soll. AuszÃ¼ge aus dem GeldwÃ¤schereigesetz: 
+Art. 2 Geltungsbereich 
+2FinanzintermediÃ¤re sind: 
+a. die Banken nach Artikel 1a des Bankengesetzes vom 8. November 19349 (BankG) und die 
+Personen nach Artikel 1b BankG: 
+Art. 9 Meldepflicht 
+1Ein FinanzintermediÃ¤r muss der Meldestelle fÃ¼r GeldwÃ¤scherei nach Artikel 23 (Meldestelle) 
+unverzÃ¼glich Meldung erstatten, wenn er: 
+a. weiss oder den begrÃ¼ndeten Verdacht hat, dass die in die GeschÃ¤ftsbeziehung involvierten 
+VermÃ¶genswerte: 
+1. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260ter oder 305bis StGB 
+stehen, 
+2. aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis 
+Ziffer 1bis StGB herrÃ¼hren, 3. der VerfÃ¼gungsmacht einer kriminellen oder terroristischen Organisation unterliegen, oder 
+4. der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen; 
+b. Verhandlungen zur Aufnahme einer GeschÃ¤ftsbeziehung wegen eines begrÃ¼ndeten 
+Verdachts nach Buchstabe a abbricht; 
+c. aufgrund der nach Artikel 6 Absatz 2 Buchstabe d durchgefÃ¼hrten AbklÃ¤rungen weiss oder 
+Grund zur Annahme hat, dass die von der FINMA, der ESBK, einer Aufsichtsorganisation oder 
+einer Selbstregulierungsorganisation weitergeleiteten Daten einer Person oder Organisation 
+den Daten eines Vertragspartners, einer wirtschaftlich berechtigten oder einer 
+zeichnungsberechtigten Person einer GeschÃ¤ftsbeziehung oder einer Transaktion 
+entsprechen. 
+Art. 37 Verletzung der Meldepflicht (Erfolgsdelikt) 
+1 Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsÃ¤tzlich die Meldepflicht nach Artikel 9 
+verletzt. 
+2Wer fahrlÃ¤ssig handelt, wird mit Busse bis zu 150 000 Franken bestraft. 
+Die StaatsanwÃ¤ltin Ã¼berlegt sich, die Beschuldigten wegen GeldwÃ¤scherei durch Unterlassen gemÃ¤ss Art. 305bis i.V.m. Art. 11 StGB anzuklagen. FÃ¼hren Sie ein Argument fÃ¼r und ein Argument gegen die MÃ¶glichkeit der Begehung der GeldwÃ¤scherei durch Unterlassen nach StGB an. BegrÃ¼nden Sie, welchem Argument Sie den Vorrang geben.",Art. 9 GwG;Art. 11 StGB;Art. 37 GwG
+train_0031,"Ein Willensvollstrecker verteilt das vorhandene BankvermÃ¶gen unter die 5 Erben. FÃ¼r die
+noch verbleibende Verteilung des wertvollen Schmuckes macht er eine Aufstellung, welcher
+4 Erben schriftlich zustimmen. Der fÃ¼nfte Erbe ist mit der Aufteilung nicht einverstanden. Weil
+der Willensvollstrecker keine andere LÃ¶sung finden kann, entschliesst er sich, den Schmuck
+gemÃ¤ss den 4 zustimmenden Erben zu verteilen und dem fÃ¼nften Erben eingeschrieben zu-
+zusenden. Der widersprechende Erbe forderte den Willensvollstrecker weiter auf, eine ein-
+vernehmliche Erbteilung herbeizufÃ¼hren. Darauf entgegnet ihm der Willensvollstrecker, dass
+er seinen Ausweis der AufsichtsbehÃ¶rde zurÃ¼ckgesandt und ihr mitgeteilt habe, die Willens-
+
+volistreckung sei beendet.
+ 
+Wenn ein Erbe behauptet, die Erbteilung sei noch nicht vollstÃ¤ndig vollzogen, muss
+dann der Willensvollstrecker beweisen, dass die Erbteilung vollzogen wurde?
+",Art. 8 ZGB
+train_0032,"Im Grenzgebiet zwischen der Schweiz und Italien wÃ¼tet seit einigen Wochen ein Wolfsrudel, welches in beiden LÃ¤ndern bereits mehrmals Schafe gerissen hat. Die ansÃ¤ssigen Bauern sind empÃ¶rt und brin gen ihren Unmut bei den zustÃ¤ndigen BehÃ¶rden deutlich zum Ausdruck. Die BehÃ¶rden geben daraufhin das Wolfsrudel sowohl in der Schweiz als auch in Italien zum Abschuss frei. Xenia Keller (hiernach: X) mit Wohnsitz in BÃ¼lach (ZH) ist eine passionierte JÃ¤gerin und mÃ¶chte den mit dem Abschuss des un liebsamen Wolfsrudels verbundenen Ruhm ernten. Im Rahmen ihres Jagdtrips auf italienischem Staatsgebiet entdeckt X im nebligen Morgengrauen in einiger Distanz Gestalten, die sie fÃ¼r das Wolfs rudel hÃ¤lt. Kurz entschlossen legt sie an, zielt auf den Â«LeitwolfÂ» und schiesst. Getroffen wird aber der in Paris (Frankreich) wohnhafte Umweltaktivist FranÃ§ois de Pierre (hiernach: F), der mit seiner Grup pierung gegen den Abschuss des Wolfsrudels protestieren und diesen verhindern wollte. F befindet sich zu diesem Zeitpunkt auf schweizerischem Hoheitsgebiet im Bezirk Entremont des Kantons Wallis. Da sich die Schussverletzung von F als besonders kompliziert erweist, wird er in ein Spezialkrankenhaus in LÃ¶rrach (Deutschland) verlegt. Trotz fachgemÃ¤sser Behandlung durch die deutschen Ã„rzte treten erhebliche Komplikationen auf, die den Heilungsprozess stark verzÃ¶gern. Nachdem die Schussverlet zung endlich richtig verheilt ist, erhÃ¤lt F eine von seiner Krankenversicherung nicht gedeckte Rechnung des deutschen Spezialkrankenhauses in HÃ¶he von rund EUR 10'245 (umgerechnet: CHF 10'500). F mÃ¶chte diese Kosten auf X Ã¼berwÃ¤lzen. Gehen Sie davon aus, dass der von RA Dr. iur. Klaus 
+Horst anwaltlich vertretene F gegen X vor dem Bezirksgericht BÃ¼lach (Einzelgericht) auf Leistung von 
+EUR 10'245 (umgerechnet: CHF 10'500) klagte. Im Laufe des Verfahrens anerkannte X einen Schaden
+ersatzanspruch des F in HÃ¶he von EUR 1'463 (umgerechnet: CHF 1'500). Mehr stehe F aber nicht zu, 
+da X nicht verpflichtet sei, dem F seine Ã¼berflÃ¼ssige Â«LuxusbehandlungÂ» zu bezahlen. Mit schriftlich 
+begrÃ¼ndetem Entscheid spricht das Einzelgericht dem F EUR 4'878 (umgerechnet: CHF 5'000) zu. 
+F mÃ¶chte gegen diesen Entscheid vorgehen. In einem anderen (von dem oben geschilderten vÃ¶llig unabhÃ¤ngigen) Schadenersatzprozess Ã¼ber 
+CHF 35'000 vor dem Bezirksgericht BÃ¼lach erhÃ¤lt RA Dr. iur Klaus Horst das schriftlich begrÃ¼ndete Urteil 
+am 15. Juni 2022. RA Dr. iur Klaus Horst kann die Niederlage in diesem seiner Ansicht nach Â«klaren 
+ProzessÂ» kaum fassen. Aufgrund seiner daraufhin erfolgenden Nachforschungen findet er am 18. Juni 
+2022 heraus, dass die Tochter der Gerichtsschreiberin beim Vater der Gegenpartei in der Lehre ist. Er 
+ist daher der Ansicht, dass bei diesem Verfahren nicht alles korrekt abgelaufen sei.  
+Was kann RA Dr. iur Klaus Horst fÃ¼r seine Mandantin unternehmen? Wie beurteilen Sie die Erfolgsaussichten? (Hinweis: ein allfÃ¤lliger [weiterer] Instanzenzug ist nicht aufzuzeigen.)",Art. 51 Abs. 3 ZPO;Art. 308 ZPO;Art. 309 ZPO;Art. 47 Abs. 1 ZPO
+train_0033,"Jemand will von Ihnen wissen, ob auch die Schweizer ImmaterialgÃ¼terrechtsgesetze Quelle
+kartellrechtlicher Normen sein kÃ¶nnen. Nennen Sie eine solche Norm und beschreiben Sie
+diese:",Art. 40 PatG;Art. 40a PatG
+train_0034,"Hans setzte gegen Erika (Wohnsitz in DÃ¼bendorf) mittels Zahlungsbefehls des Betreibungsamtes DÃ¼bendorf (Bezirk Uster) fÃ¼r die ordentliche Betreibung auf PfÃ¤ndung eine Forderung von Fr. 1.4 Mio. nebst Zins in Betreibung. Nach Rechtskraft des Zahlungsbefehls stellte Hans das Fortsetzungsbegehren. Aufgrund eines Rechtshilfeersuchens des Betreibungsamtes DÃ¼bendorf an das Betreibungsamt ZÃ¼rich 5 (Bezirk ZÃ¼rich) wurde die PfÃ¤ndung anschliessend in Abwesenheit von Erika durch das Betreibungsamt ZÃ¼rich 5 vollzogen. Der gestern zugestellten PfÃ¤ndungsurkunde konnte Erika entnehmen, dass ihr an der Gasometerstrasse 3 in 8005 ZÃ¼rich liegendes GrundstÃ¼ck vom Betreibungsamt ZÃ¼rich 5 auf einen Wert von Fr. 900'000.00 geschÃ¤tzt wurde und dass eine Anmeldung zur Vormerkung einer VerfÃ¼gungsbeschrÃ¤nkung im Grundbuch erfolgt ist. Erika behauptet, sie habe von dieser PfÃ¤ndung keine Kenntnis gehabt und deshalb ihre Rechte nicht wahren kÃ¶nnen und mÃ¶chte heute (also am 6. Januar 2023) dagegen vorgehen. Bearbeitungshinweise: Die ZustÃ¤ndigkeiten der BetreibungsÃ¤mter DÃ¼bendorf und ZÃ¼rich 5 sind gegeben. Es haben keine Betreibungshandlungen wÃ¤hrend den Betreibungsferien stattgefunden. Es sind hierzu keine AusfÃ¼hrungen notwendig! 
+Mit welchem Rechtsmittel kann sich Erika gegen die PfÃ¤ndung zur Wehr setzen? Ã„ussern Sie sich zu Gegenstand, Grund, Legitimation und Frist dieses Rechtsmittels!",Art. 90 SchKG;Art. 91 Abs. 1 SchKG;Art. 17 Abs. 1 SchKG;Art. 17 Abs. 2 SchKG;Art. 31 SchKG
+train_0035,"Grundsachverhalt
+Die Z AG betreibt eine Schreinerei. Infolge schlechten GeschÃ¤ftsgangs stellte die Z AG im
+GeschÃ¤ftsjahr 2015 ihren Betrieb ein und verÃ¤usserte die dazugehÃ¶rende Liegenschaft fÃ¼r
+CHF 5â€˜000â€˜000 (Buchwert CHF 1â€˜000â€˜000).
+Im GeschÃ¤ftsjahr 2017 kauft die Z AG ein neues GrundstÃ¼ck mitsamt Lager- und
+FabrikgebÃ¤ude fÃ¼r CHF 6â€˜000â€˜000. Gleichzeitig stellt sie ihren Betrieb auf die Produktion von
+Textilien um.
+Die Z AG ist zudem seit drei Jahren mit 40% an der A AG beteiligt. Der Buchwert der
+Beteiligung betrÃ¤gt CHF 500â€˜000 (Gestehungskosten CHF 1â€˜000â€˜000). Ende 2017 verÃ¤ussert
+die Z AG die Beteiligung an der A AG fÃ¼r CHF 1â€˜500â€˜000. Mit dem ErlÃ¶s aus dem Verkauf der
+Beteiligung erwirbt die Z AG im GeschÃ¤ftsjahr 2018 fÃ¼r jeweils CHF 500â€˜000 eine Beteiligung
+in HÃ¶he von 35% an der B AG, eine Beteiligung in HÃ¶he von 5% an der C AG und eine neue
+Spinnmaschine fÃ¼r ihre Textilproduktion.
+Variante
+Das GrundstÃ¼ck, welches die Z AG im GeschÃ¤ftsjahr 2017 fÃ¼r CHF 6â€˜000â€˜000 erworben hat,
+befindet sich nicht in der Schweiz, sondern in Italien. 
+Wie ist der Sachverhalt handelsrechtlich zu beurteilen?",Art. 960e OR;Art. 960a Abs. 4 OR
+train_0036,"Bei einem Besuch von Frau Kempf bei ihrer Bekannten, Frau Bleuler, in deren Eigenheim stÃ¼rzte
+Frau Kempf auf der Treppe und zog sich gravierende Verletzungen zu. Der Schaden ist vollum-
+fÃ¤nglich von Versicherungen gedeckt, hingegen verlangt Frau Kempf von Frau Bleuler persÃ¶nlich
+eine Genugtuung von Fr. 12'000.â€“.
+Weil Frau Bleuler die Zahlung verweigert, leitet Frau Kempf eine Betreibung ein, wogegen Frau
+Bleuler Rechtsvorschlag erhebt. Das erstaunt Frau Kempf umso mehr, als ihr Frau Bleuler kurz
+nach dem Unfall per E-Mail zugesichert hat, fÃ¼r alles wegen des Unfalls erlittene Ungemach in der
+HÃ¶he der geltend gemachten Genugtuung von Fr. 12'000.â€“ aufzukommen.
+In Sorge um ihre Forderung lÃ¤sst sich Frau Kempf einen Betreibungsregisterauszug (Art. 8a
+SchKG) geben. Daraus geht hervor, dass Frau Bleuler diverse laufende Betreibungen hat und dass
+dem GlÃ¤ubiger X vor einiger Zeit sogar ein Verlustschein ausgestellt worden ist. 
+Frau Kempf ist beunruhigt und mÃ¶chte mÃ¶glichst rasch zu einer mÃ¶glichst hohen
+Befriedigung ihrer Genugtuungsforderung kommen. Welche MÃ¶glichkeiten hat sie
+und was raten Sie ihr unter BerÃ¼cksichtigung von ZPO und SchKG?",Art. 8a SchKG;Art. 271 SchKG;Art. 271 Abs. 1 SchKG;Art. 82 SchKG;Art. 83 Abs. 1 SchKG;Art. 82 Abs. 1 SchKG;Art. 257 ZPO;Art. 257 Abs. 1 ZPO;Art. 243 Abs. 1 ZPO
+train_0037,"A ist als Sachbearbeiter bei der B AG angestellt, einem TreuhandbÃ¼ro mit Sitz in Uster im Kanton ZÃ¼rich. Die KÃ¼ndigungsfrist gemÃ¤ss Arbeitsvertrag betrÃ¤gt drei Monat auf das Ende eines jeden Monats. Wegen seiner Leidenschaft fÃ¼r online-Wetten, die der Arbeitgeberin nicht bekannt ist, hat A private Schulden im Betrag von mehreren zehntausend Franken. Um an das dringend benÃ¶tigte Geld zu kommen, manipuliert A seine Spesenbelege, um so von der B AG die RÃ¼ckerstattung beruflicher Reise- und Verpflegungskosten einzufordern, die ihm tatsÃ¤chlich gar nicht entstanden sind. Insgesamt bereichert er sich auf diese Weise im Betrag von rund Fr. 10â€˜000.--. Am 7. Januar 2019, anlÃ¤sslich einer Revision der Buchhaltung der B AG, fliegen die ungerechtfertigten SpesenbezÃ¼ge von A auf. Noch am gleichen Tag konfrontiert die GeschÃ¤ftsleitung A mit den gemachten Feststellungen. A gibt sofort zu, dass er sich unrechtmÃ¤ssig bereichert hat. Wegen einer anstehenden GeschÃ¤ftsreise des CEO der B AG beschliesst die GeschÃ¤ftsleitung, Ã¼ber das weitere Vorgehen nach dessen RÃ¼ck kehr zu beschliessenden. Am 21. Januar 2019 findet in der Folge eine GeschÃ¤ftsleitungssit zung statt, anlÃ¤sslich welcher die fristlose Entlassung von A beschlossen wird. Noch am gleichen Tag wird A das KÃ¼ndigungsschreiben persÃ¶nlich Ã¼bergeben. A beauftragt Sie als AnwÃ¤ltin/Anwalt, wegen der fristlosen Entlassung zu klagen. 
+Angenommen, anstelle der oben erwÃ¤hnten Gerichtsstandsklausel sÃ¤he der Arbeits vertrag eine Schiedsklausel vor, wonach fÃ¼r Streitigkeiten aus dem Arbeitsvertrag ein Schiedsgericht und nicht das Zivilgericht zustÃ¤ndig sei: WÃ¤re das Bezirksgericht Us ter dennoch zustÃ¤ndig?",Art. 354 ZPO;Art. 341 Abs. 1 OR;Art. 337c OR
+train_0038,"Betrachten Sie den Entscheid BGer 4A_306/2009 vom 8. Februar 2010. 
+Welche Rechtsgrundlagen einer Haftung der Konzernmuttergesellschaft fÃ¼r Verbindlichkeiten einer Tochtergesellschaft hat das Bundesgericht in diesem Urteil geprÃ¼ft?",Art. 722 OR
+train_0039,"Die Liegenschaft GB 200 ist in 4 Stockwerkeigentumsanteile zu je 25/100 aufgeteilt, die alle Wohnzwecken dienen. Einen Verwalter haben die StockwerkeigentÃ¼mer nicht eingesetzt. Die EigentÃ¼mer von Stockwerkeinheiten Nr. 3 und 4, Alfons (A) und Bruno (B), stÃ¶ren sich daran, dass es auf dem GrundstÃ¼ck keinen Velounterstand gibt. Sie bestellen daher ohne RÃ¼ck sprache mit den anderen StockwerkeigentÃ¼mern beim HÃ¤ndler Huber (H) einen schÃ¶nen Velo unterstand, der dank fester Verbindung mit dem Boden sehr stabil ist, und lassen ihn durch Huber neben dem Eingang zum GebÃ¤ude aufstellen. Sie bringen darauf ein Schild an mit dem Hinweis: Â«Zur BenÃ¼tzung durch alle StockwerkeigentÃ¼merÂ». Anschliessend leiten sie die Rech nung von Huber an die anderen beiden StockwerkeigentÃ¼mer weiter mit der Bitte, je einen Viertel der Kosten beizutragen; der Velounterstand stehe ja allen zur VerfÃ¼gung. Da bricht eine grosse Diskussion aus. Die StockwerkeigentÃ¼merinnen Carla (C) und Dora (D), EigentÃ¼merin nen der Stockwerkeinheiten Nr. 1 und 2, stellen sich auf den Standpunkt, das Aufstellen des Velounterstandes sei unzulÃ¤ssig. Nach einigen Diskussionen erklÃ¤ren sie sich bereit, den Velo unterstand zu dulden, machen aber klar, dass sie ihn in keiner Weise nutzen wollen. Sie beste hen auf einer sauberen rechtlichen Regelung der neuen Situation, wonach ausschliesslich Al fons und Bruno nutzungsberechtigt und allein kosten- und unterhaltspflichtig sind. 
+HÃ¤tten Carla und Dora eine KlagemÃ¶glichkeit bzw. KlagemÃ¶glichkeiten, falls seitens Al fons und Bruno keine Berechtigung bestÃ¤nde? (Bezeichnen Sie Klagegrund und die mass geblichen Bestimmungen. Klagen aus Besitz sind nicht zu prÃ¼fen.)",Art. 75 ZGB;Art. 641 Abs. 2 ZGB;Art. 679 ZGB
+train_0040,"Bâ€™s Freundin F weilt fÃ¼r 18 Monate studienbedingt in Neuseeland. FÃ¼r die Dauer ihrer Abwesenheit, wÃ¤hrend der sie das Fahrzeug nicht nutzen kann, Ã¼berlÃ¤sst sie ihr Auto B. Im Gegenzug kommt B fÃ¼r die angefallenen Benzin- und Instandhaltungskosten auf. Im Fahrzeugausweis bleibt ausschliesslich F eingetragen. Aufgrund eines Raddefekts muss B das Auto in Kâ€™s Werkstatt zur Reparatur bringen. Das Fahrzeug wird in der Werkstatt aufgebockt und das betroffene Rad abmontiert. Weil jedoch Ersatzteile fehlen, muss die Reparatur unterbrochen werden. In der darauffolgenden Nacht kommt es in der Werkstatt zu einem Brand. SpÃ¤ter stellt sich heraus, dass der brandbedingte GebÃ¤udeschaden durch eine Explosion im Motor von Fâ€™s Fahrzeug, welche nicht im Zusammenhang mit den Reparaturarbeiten gestanden hat, Brandursache war. K begehrt von B Ersatz fÃ¼r den entstandenen GebÃ¤udeschaden. 
+Wie beurteilen Sie die Haftungslage aus Perspektive des SVG?",Art. 58 Abs. 1 SVG;Art. 7 SVG;Art. 71 Abs. 1 SVG;Art. 58 Abs. 2 SVG
+train_0041,"Nehmen Sie zu der folgenden Aussage Stellung: Ist diese richtig oder falsch? Nennen Sie
+dabei jeweils, die einschlÃ¤gigen Begriffe und die konkreten Normen.
+
+Das Sozialversicherungsrecht kennt keine Leistungen, die mit einer Genugtuung im
+Sinne von Art. 49 OR kongruent sind.",Art. 49 OR;Art. 24 Abs. 1 UVG;Art. 74 Abs. 2 ATSG
+train_0042,"Timo (T) und sein Ã¤lterer Bruder Simon (S), beide mit Wohnsitz in Winterthur, sind Mitglieder einer Bande, die regelmÃ¤ssig in den WarenhÃ¤usern der Stadt ZÃ¼rich ihr Unwesen treibt und immer wieder LadendiebstÃ¤hle begeht. S und die anderen Bandenmitglieder sind alle zwi schen 18 und 22 Jahre alt, wÃ¤hrend T erst 13-jÃ¤hrig ist. S und die anderen Bandenmitglieder nutzen das Alter des T aus, indem sie stets T die DiebstÃ¤hle ausfÃ¼hren lassen. Wurde T er wischt, haben die WarenhÃ¤user den Â«kleinen JungenÂ» bisher immer mit einer Verwarnung davonkommen lassen. Am 15. Januar 2022 mÃ¶chte T mal wieder einen sehr teuren Pullover im Wert von CHF 850.- in seiner Tasche verschwinden lassen, als er von einem Ladendetektiv angehalten wird, der daraufhin sofort die Polizei alarmiert. Die Polizei nimmt T vorlÃ¤ufig fest und Ã¼bergibt die Sache an die zustÃ¤ndige UntersuchungsbehÃ¶rde. WÃ¤hrend des Untersuchungsverfahrens stellt sich heraus, dass T aus schwierigen familiÃ¤ren 
+VerhÃ¤ltnissen kommt. Beide Eltern sind aus beruflichen GrÃ¼nden kaum zuhause und Ã¼berlas
+sen die BrÃ¼der S und T praktisch ihrem Schicksal. Weitere enge Bezugspersonen gibt es keine. 
+Die Untersuchungsbeamtin mÃ¶chte den Fall mit den Eltern besprechen. Im Rahmen der AbklÃ¤rung der persÃ¶nlichen VerhÃ¤ltnisse ergibt sich, dass Ã¼ber die durch die 
+fehlende elterliche Erziehung ausgelÃ¶ste EntwicklungsstÃ¶rung hinaus keine Anhaltspunkte fÃ¼r 
+einen therapeutischen Behandlungsbedarf bestehen. Ausserdem zeigt sich, dass die Eltern 
+gewillt sind, ihre Erziehungsaufgaben bestmÃ¶glich wahrzunehmen und T die nÃ¶tige FÃ¼rsorge 
+zukommen zu lassen. Die zustÃ¤ndige Untersuchungsbeamtin entscheidet sich daher, dass T 
+in der Familie verbleiben kann. Um zu gewÃ¤hrleisten, dass seine Entwicklungsdefizite aufge
+holt werden kÃ¶nnen, hÃ¤lt sie es aber fÃ¼r notwendig, dass T an zwei Nachmittagen in der Woche 
+von einem Sozialarbeiter betreut wird. Gleichzeitig will die Untersuchungsbeamtin auf eine 
+Strafe verzichten, damit T nicht irritiert ist und sich dann der Schutzmassnahme widersetzt.  
+Kann auf eine Strafe verzichtet werden?",Art. 21 JStG;Art. 11 Abs. 1 JStG;Art. 21 Abs. 1 JStG
+train_0043,"X ist AlleinaktionÃ¤r der Bau AG. Die Bau AG verfÃ¼gt Ã¼ber drei GeschÃ¤ftsautos. Eines davon stellt X seiner Ehefrau dauernd und kostenlos zur VerfÃ¼gung. FÃ¼r die Unterhaltskosten des von der Ehefrau benutzten Autos verbucht die Bau AG im Jahr 2021 einen Aufwand von CHF 10â€˜000, zudem macht sie eine Abschreibung auf dem Auto im Umfang von CHF 20â€˜000. Die Bau AG weist im Jahr 2021 einen steuerbaren Reingewinn von CHF 200â€˜000 aus. 
+Welche einkommens-, gewinn- und verrechnungssteuerlichen Folgen ergeben sich aus diesem Sachverhalt? - - fÃ¼r die Bau AG? FÃ¼r X?",Art. 56 Abs. 1 DBG;Art. 58 Abs. 1 DBG;Art. 959 Abs. 2 OR;Art. 4 Abs. 1 VStG;Art. 20 Abs. 1 VStV;Art. 14 Abs. 1 VStG;Art. 20 Abs. 1 VStG;Art. 24 Abs. 1 VStV
+train_0044,"Karolin (K) hat ein grosses VermÃ¶gen geerbt. Am Finanzmarkt hat sie sich nie betÃ¤tigt, weil sie allgemein eher risikoavers ist. Sie wendet sich an Arthur (A). Dieser ist selbstÃ¤ndig, ge niesst einen vorzÃ¼glichen Ruf als Â«Orakel der ZÃ¼rcher BahnhofstrasseÂ» und hat mit seinen Tipps schon einigen Anlegern zu Reichtum verholfen. Einleitend informiert A die K Ã¼ber seinen Namen, seine Adresse und Ã¼ber die MÃ¶glichkeit, ein Ombudsverfahren einzuleiten. Bereits zu Beginn des GesprÃ¤chs unterzeichnen A und K einen Â«Vertrag betreffend FinanzdienstleistungenÂ», zu welchem auch Allgemeine GeschÃ¤ftsbedin gungen (AGB) gehÃ¶ren. A macht K insbesondere auf eine AGB-Klausel aufmerksam, die aus drÃ¼cklich darauf hinweist, dass A die im Zusammenhang mit der Erbringung von Finanzdienst leistungen EntschÃ¤digungen Dritter annehmen darf und K auf deren Herausgabe verzichtet. Sodann wendet sich das GesprÃ¤ch den allgemein mit Finanzinstrumenten verbundenen Risi ken zu und A mÃ¶chte von K wissen, ob sie denn schon Erfahrungen in diesem Bereich und insbesondere im Zusammenhang mit Aktieninvestitionen gesammelt habe, was K verneint. A informiert sich weiter Ã¼ber die finanziellen VerhÃ¤ltnisse, und die Anlageziele von K. K legt diese dar und weist A insbesondere darauf hin, dass sie ausser ihrem Bankguthaben Ã¼ber kein sons tiges VermÃ¶gen verfÃ¼gt. Daraufhin stellt ihr A die Aktien einiger aufstrebender Unternehmen vor. Â«Echte GeheimtippsÂ», wie er sie nennt. Darunter ist ein Startup aus Krakau (Polen), wel ches sich im Bereich der Verkehrsautomatisierung besonders hervorgetan und ein Â«enormes WachstumspotentialÂ» habe. Er empfiehlt K, soviel Geld, wie sie entbehren kÃ¶nne, in dieses jÃ¼ngst an der Warschauer WertpapierbÃ¶rse kotierte Unternehmen zu investieren. Er ver schweigt, dass die Aktien des Unternehmens nach dem BÃ¶rsengang bei ca. 365 ZÅ‚oty (also ca. 80 Schweizer Franken) vor sich hindÃ¼mpeln, nachdem der Ausgabepreis ca. 455 ZÅ‚oty (ca. 100 Schweizer Franken) betragen hatte. K ist begeistert und mÃ¶chte in das polnische Unternehmen investieren. Sie tÃ¤tigt die empfoh lene Anlage und investiert sÃ¤mtliche ihr verfÃ¼gbaren Mittel in zweistelliger MillionenhÃ¶he in das Unternehmen. Danach dokumentiert A das GesprÃ¤ch zwischen den beiden im Einklang mit Art. 15 FIDLEG. A bezieht vom polnischen Unternehmen eine grosszÃ¼gige VertriebsentschÃ¤digung in HÃ¶he von umgerechnet ca. 20'000 Schweizer Franken, die er K gegenÃ¼ber nicht erwÃ¤hnt hat. Weiter lÃ¤sst er es sich nicht nehmen, unmittelbar nach dem GesprÃ¤ch mit K, aber noch vor AusfÃ¼h rung von deren Order, selbst in das Unternehmen zu investieren, was ihm aufgrund des Kurs sprungs, den die Order der K ausgelÃ¶st hat, einen satten Gewinn einbringt. 
+Sie sind Mitarbeiter*in der FINMA und werden von Ihrem Vorgesetzten gebeten, zu prÃ¼fen, ob und inwiefern A bei der Beratung von K Fehler gemacht und gegebenenfalls gegen welche Bestimmungen des FIDLEG und/oder des Privatrechts er verstossen hat. Bestimmungen des FinfraG sind nicht zu prÃ¼fen.",Art. 15 FIDLEG;Art. 2 Abs. 1 FIDLEG;Art. 3 FIDLEG;Art. 973c OR;Art. 973d OR;Art. 2 Abs. 1 FinfraV;Art. 3 FINIG;Art. 19 FINIV;Art. 2 HRegV;Art. 6 BankV;Art. 8 Abs. 1 FIDLEG;Art. 8 Abs. 2 FIDLEG;Art. 9 Abs. 1 FIDLEV;Art. 8 Abs. 3 FIDLEG;Art. 8 Abs. 4 FIDLEG;Art. 58 FIDLEG;Art. 2 Abs. 2 FIDLEV;Art. 59 Abs. 1 FIDLEG;Art. 8 Abs. 5 FIDLEG;Art. 9 Abs. 1 FIDLEG;Art. 10 FIDLEG;Art. 11 FIDLEG;Art. 12 FIDLEG;Art. 5 Abs. 1 FIDLEG;Art. 17 FIDLEV;Art. 14 Abs. 2 FIDLEG;Art. 14 Abs. 3 FIDLEG;Art. 398 Abs. 2 OR;Art. 26 Abs. 3 FIDLEG;Art. 400 OR;Art. 26 FIDLEG;Art. 26 Abs. 1 FIDLEG;Art. 26 Abs. 2 FIDLEG;Art. 25 Abs. 1 FIDLEG;Art. 25 Abs. 2 FIDLEG;Art. 25 Abs. 3 FIDLEG;Art. 27 FIDLEV;Art. 398 OR
+train_0045,"Frida und Max bewohnen je eine Wohnung in einem Mehrfamilienhaus. Um zu ihrer Wohnung zu ge-
+langen, muss Frida an der WohnungstÃ¼r von Max vorbei. Als Frida eines Morgens eilends durch den
+Gang lÃ¤uft, Ã¼bersieht sie ein Paar Frauenstiefel, die auf der HÃ¶he von Maxâ€™ WohnungstÃ¼r mitten im
+Gang stehen, stolpert darÃ¼ber und fÃ¤llt zu Boden. Beim Sturz schlÃ¤gt ihre Uhr auf dem Boden auf und
+wird beschÃ¤digt. Wenigstens hat sie sich selber nichts getan, denkt sich Frida, macht fÃ¼r alle FÃ¤lle mit
+ihrem Handy ein Foto von der Situation mit den Stiefeln und geht weiter.
+Einige Wochen spÃ¤ter hat Frida Streit mit Max, der sich lautstark darÃ¼ber empÃ¶rt, dass Frida die
+WaschkÃ¼che viel zu oft belege. Daraufhin konfrontiert Frida Max mit dem Schaden an ihrer Uhr und
+verlangt CHF 4000 Schadenersatz. Max antwortet, er werde das nicht bezahlen. Egal wie hoch der
+Schaden sei, jedenfalls wÃ¼rden die Frauenstiefel, Ã¼ber die Frida angeblich gestÃ¼rzt sei, offensichtlich
+nicht ihm gehÃ¶ren, und er habe diese sicher nicht in den Gang gestellt.
+Am nÃ¤chsten Tag trifft sich Frida mit Viktor. Viktor hat sein Jusstudium vor einigen Jahren erfolgreich
+abgeschlossen und betreibt nun ein Inkassounternehmen. Frida, die eine Modeboutique fÃ¼hrt, ist
+eine Stammklientin Viktors. Viktor vertritt Frida manchmal auch vor Gericht, so gerade vor kurzem in
+einem RechtsÃ¶ffnungsverfahren gegen eine Kundin ihrer Boutique. Frida beklagt sich bei Viktor Ã¼ber
+ihre Probleme mit Max. Viktor bestÃ¤rkt Frida im Vorhaben, ihren Schadenersatzanspruch gegen Max
+auf dem Rechtsweg geltend zu machen. Er bietet ihr an, sie Â«als FreundschaftsdienstÂ» unentgeltlich
+zum Friedensrichter zu begleiten und sie auch in einem allfÃ¤lligen anschliessenden Gerichtsverfahren
+unentgeltlich zu beraten und zu vertreten.
+
+BGE 142 III 263 (AuszÃ¼ge)
+Die Aufzeichnung von Bildern durch eine VideoÃ¼berwachungsanlage, die es erlauben, bestimmte Per-
+sonen zu identifizieren, fÃ¤llt unbestreitbar in den Anwendungsbereich des Datenschutzgesetzes. [â€¦]
+GemÃ¤ss Art. 12 Abs. 1 DSG darf, wer Personendaten bearbeitet, die PersÃ¶nlichkeit der betroffenen
+Person nicht widerrechtlich verletzen. Nach Abs. 1 von Art. 13 DSG (Â«RechtfertigungsgrÃ¼ndeÂ») ist
+eine Verletzung der PersÃ¶nlichkeit widerrechtlich, wenn sie nicht durch Einwilligung des Verletzten,
+durch ein Ã¼berwiegendes privates oder Ã¶ffentliches Interesse oder durch Gesetz gerechtfertigt ist
+(Art. 13 Abs. 1 DSG). Neben dem Interesse des Datenbearbeiters kÃ¶nnen dabei auch Interessen Drit-
+ter oder sogar der betroffenen Personen selbst die Datenbearbeitung unter UmstÃ¤nden rechtferti-
+gen. GrundsÃ¤tzlich kann jedes schÃ¼tzenswerte Interesse, d.h. jedes Interesse von allgemein aner-
+kanntem Wert, berÃ¼cksichtigt werden [â€¦]. Die PrÃ¼fung, ob ein Rechtfertigungsgrund fÃ¼r einen Ein-
+griff in die PersÃ¶nlichkeitsrechte vorliegt, ist anhand der konkreten UmstÃ¤nde des Einzelfalls vorzu-
+nehmen und setzt eine AbwÃ¤gung aller betroffenen Interessen voraus [â€¦]. Die InteressenabwÃ¤gung
+beruht auf gerichtlichem Ermessen [â€¦].
+
+Art. 179 quater StGB
+Verletzung des Geheim- oder Privatbereichs durch AufnahmegerÃ¤te
+Wer eine Tatsache aus dem Geheimbereich eines andern oder eine nicht jedermann ohne weiteres
+zugÃ¤ngliche Tatsache aus dem Privatbereich eines andern ohne dessen Einwilligung mit einem Auf-
+nahmegerÃ¤t beobachtet oder auf einen BildtrÃ¤ger aufnimmt,
+wer eine Tatsache, von der er weiss oder annehmen muss, dass sie auf Grund einer nach Absatz 1
+strafbaren Handlung zu seiner Kenntnis gelangte, auswertet oder einem Dritten bekannt gibt,
+wer eine Aufnahme, von der er weiss oder annehmen muss, dass sie durch eine nach Absatz 1 straf-
+bare Handlung hergestellt wurde, aufbewahrt oder einem Dritten zugÃ¤nglich macht,
+wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. 
+Wie beurteilen Sie Viktors Vorschlag?",Art. 12 Abs. 1 DSG;Art. 13 DSG;Art. 13 Abs. 1 DSG;Art. 204 Abs. 1 ZPO;Art. 204 Abs. 3 ZPO;Art. 68 Abs. 2 ZPO;Art. 27 Abs. 1 SchKG
+train_0046,"A hÃ¤lt sÃ¤mtliche Aktien der Fam AG in seinem PrivatvermÃ¶gen (100 Aktien zu je CHF 1000, Aktienkapital CHF 100â€˜000, Verkehrswert CHF 1 Mio.). Zudem bestehen Kapitaleinlagereserven in der HÃ¶he von CHF 200â€˜000. A grÃ¼ndet die Fam Holding AG (100 Aktien zu je CHF 1â€˜000), welche die Aktien der Fam AG von A Ã¼bernimmt und mit CHF 1 Mio. aktiviert. Als EntschÃ¤digung erhÃ¤lt A die 100 Aktien der Fam Holding AG und eine Darlehensgutschrift von CHF 900â€˜000, welche marktkonform verzinst wird. 
+Bewirkt die Umgestaltung Gewinnsteuern bei der Fam Holding AG und/oder Einkommenssteuern bei A?",Art. 20a Abs. 1 DBG;Art. 16 Abs. 3 DBG;Art. 20 Abs. 1 DBG
+train_0047,"Â«Zerbrechliche FreundschaftÂ» Claudio ist leidenschaftlicher Whisky-Kenner. Um seine Verlobung zu feiern, kauft er bei seinem guten Freund Marc â€“ beide haben Wohnsitz in der Schweiz â€“ einen seltenen Whisky aus den schottischen Highlands fÃ¼r CHF 1â€™500. Bei der Ãœbergabe fÃ¤llt die Flasche jedoch zu Boden und zerbricht. Claudio mÃ¶chte nun den bereits bezahlten Kaufpreis zurÃ¼ckerstattet haben, doch Marc denkt nicht daran â€“ beide sind Ã¼berzeugt, der Verlust sei auf die Unachtsamkeit des anderen zurÃ¼ckzufÃ¼hren. In der Folge kontaktiert Claudio AnwÃ¤ltin Heidi, bei welcher Sie als juristische/r Mitarbeiter/in angestellt sind. Heidi Ã¼berlÃ¤sst Ihnen das erste KlientengesprÃ¤ch und meint zudem, in einem solchen Fall wÃ¤re es richtig, Claudio auch Ã¼ber die MÃ¶glichkeit einer Mediation zu unterrichten. 
+Kann es Claudio mit Blick auf ein allfÃ¤lliges Gerichtsverfahren schaden, wenn er in der Mediation eigene Fehler zugibt?",Art. 216 Abs. 2 ZPO
+train_0048,"Am 20. Februar 2019 schliessen Gastronomin Gina aus Meilen und Brauer Benno aus Bern miteinander einen GetrÃ¤nkeliefervertrag ab. Sie vereinbaren, dass Gina in den nÃ¤chsten drei Jahren das in ihrem Restaurant ausgeschenkte Bier exklusiv von Benno bezieht und dafÃ¼r vergÃ¼nstigte Konditionen erhÃ¤lt. Benno soll zweimal jÃ¤hrlich, am 1. MÃ¤rz und am 1. September, Bier im Wert von jeweils Fr. 30â€˜000.â€“ liefern. Gina soll die Lieferungen jeweils Zug um Zug nach Eingang bezahlen. Als Benno am 1. MÃ¤rz 2019 mit seinem Lieferwagen vor Ginas Restaurant in Meilen steht und die Harassen mit Bier ausladen will, verweigert Gina jedoch die Annahme des Biers mit der BegrÃ¼ndung, der GetrÃ¤nkeliefervertrag sei unverbindlich. Benno habe sie Ã¼ber die Zusammensetzung des Biers getÃ¤uscht. Mit Klage vom 15. April 2019 an das Bezirksgericht Meilen fordert Benno, der nicht der Meinung ist, sich unkorrekt verhalten zu haben, von Gina Fr. 30â€˜000.â€“ fÃ¼r das gelieferte Bier sowie Fr. 500.â€“ fÃ¼r durch die Nichtannahme des Biers verursachten Hinterlegungskosten. In ihrer Klageantwort vom 6. Mai 2019 beantragt Gina, die Klage sei abzuweisen. Ausserdem sei festzustellen, dass der GetrÃ¤nkeliefervertrag vom 20. Februar 2019 unverbindlich sei. 
+Wird das Bezirksgericht Meilen auf das Feststellungsbegehren von Gina (Streitwert Fr. 180â€˜000.â€“) eintreten? BeschrÃ¤nken Sie sich bei der Analyse auf Aspekte, die aufgrund des Sachverhalts Ã¼berhaupt problematisch sein kÃ¶nnten und verzichten Sie auf AusfÃ¼hrungen zur ZustÃ¤ndigkeit und zur RechtshÃ¤ngigkeit!",Art. 90 ZPO;Art. 93 ZPO;Art. 197 ZPO;Art. 198 ZPO
+train_0049,"ErlÃ¤utern Sie den Begriff des Zufallsinsiders. Macht sich dieser strafbar, wenn er eine Insiderinformationen fÃ¼r sich selber ausnÃ¼tzt? Wenn ja, gestÃ¼tzt auf welche Bestimmung?",Art. 154 Abs. 4 FinfraG
+train_0050,"E. plant, die Ausbildung zur Polizistin anzutreten und informiert sich Ã¼ber die ModalitÃ¤ten. Im 
+Polizeigesetz des Kantons Y. findet sie folgende Bestimmung: 
+Art. 35 Personalrecht 
+(â€¦) 
+2 FÃ¼r AngehÃ¶rige der Kantonspolizei besteht eine kantonale Wohnsitzpflicht; AngehÃ¶rige der 
+Kantonspolizei haben zwingend im Kanton Y. zu wohnen. 
+(â€¦) 
+Was ist Sinn und Zweck einer solchen Bestimmung? Welche Konflikte ergeben sich aus grundrechtlicher Sicht?",Art. 24 BV;Art. 27 BV;Art. 13 Abs. 1 BV
